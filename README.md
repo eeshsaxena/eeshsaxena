@@ -20,7 +20,7 @@ Hi, I'm Eesh Saxena, a second-year CSE student diving into Data Structures and A
 
 
 ### Socials
-<a href="https://leetcode.com/YourUsername" target="_blank" rel="noreferrer">
+<a href="https://leetcode.com/eeshsaxena" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
 </a>
 
