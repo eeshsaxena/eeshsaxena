@@ -1,6 +1,11 @@
 # Eesh Saxena
 
 ## Web Developer and Full Stack Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-SE&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="Harshit-SE" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harshit-SE&theme=onedark" alt="Harshit-SE" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/HarshitMishra" target="blank"><img src="https://img.shields.io/twitter/follow/HarshitMishra?logo=twitter&style=for-the-badge&labelColor=1b1f23&style=plastic&color=36c5f0" alt="HarshitMishra" /></a> </p>
 
 Hi, I'm Eesh Saxena, a second-year CSE student diving into Data Structures and Algorithms (DSA) for a solid coding foundation, with a keen interest in AI/ML and innovation.
 
