@@ -12,7 +12,7 @@
 
 Hi, I'm Eesh Saxena, a second-year CSE student diving into Data Structures and Algorithms (DSA) for a solid coding foundation, with a keen interest in AI/ML and innovation.
 
-- 🌍  **Location:** Kota, India
+- 🌍  **Location:** Gandhinagar, Gujarat, India
 - ✉️  **Contact:** [eesh230101032@iiitmanipur.ac.in](mailto:eesh230101032@iiitmanipur.ac.in)
 - 🧠  **Learning:** AI/ML & DSA
 - 🤝  **Collaboration:** Open to projects
