@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🐉 Eesh Saxena</h1>
-<h3 align="center">Web Developer · Full Stack Developer · AI/ML Enthusiast</h3>
+<h3 align="center">Web Developer · Full Stack Developer · AI/ML </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" alt="eeshsaxena" />
