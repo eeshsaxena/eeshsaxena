@@ -125,3 +125,6 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 <p align="center">
   <b>🔥 Production-ready code forged in dragonfire. 🔥</b>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="400"/>
+</p>
