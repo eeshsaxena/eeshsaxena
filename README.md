@@ -1,82 +1,134 @@
-# Eesh Saxena
+# 🐉 Eesh Saxena
 
-## Web Developer and Full Stack Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="eeshsaxena" /> </p>
+<!-- ================= OPTION 3 (BEST - ENABLE THIS) ================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=onedark" alt="eeshsaxena" /></a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+🚀" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/eeshsaxena" target="blank"><img src="https://img.shields.io/twitter/follow/eeshsaxena?logo=twitter&style=for-the-badge&labelColor=1b1f23&style=plastic&color=36c5f0" alt="eeshsaxena" /></a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="400"/>
+</p>
 
-<p align="left"> <a href="https://github.com/eeshsaxena" target="blank">My GitHub Profile</a> </p>
+<!-- ================= OPTION 2 (UNCOMMENT TO USE) ================= -->
 
+<!--
+---
 
-Hi, I'm Eesh Saxena, a second-year CSE student diving into Data Structures and Algorithms (DSA) for a solid coding foundation, with a keen interest in AI/ML and innovation.
+## 🐲 Welcome to My Realm
 
-- 🌍  **Location:** Gandhinagar, Gujarat, India
-- ✉️  **Contact:** [eesh230101032@iiitmanipur.ac.in](mailto:eesh230101032@iiitmanipur.ac.in)
-- 🧠  **Learning:** AI/ML & DSA
-- 🤝  **Collaboration:** Open to projects
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500"/>
+</p>
+
+---
+-->
+
+<!-- ================= OPTION 1 (UNCOMMENT TO USE) ================= -->
+
+<!--
+## 🐉 Dragon Mode Activated
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
+-->
 
 ---
 
-### Skills
+## 🚀 Web Developer | Full Stack Developer
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+  <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=onedark" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/eeshsaxena">
+    <img src="https://img.shields.io/twitter/follow/eeshsaxena?logo=twitter&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### Socials
+## 👨‍💻 About Me
 
-<a href="https://leetcode.com/eeshsaxena" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
-</a>
-<a href="https://www.github.com/eeshsaxena" target="_blank" rel="noreferrer">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/eesh-saxena" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn" />
-</a>
+Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack Development, and AI/ML**.
+
+* 🌍 Location: Gandhinagar, Gujarat, India
+* ✉️ Email: [eesh230101032@iiitmanipur.ac.in](mailto:eesh230101032@iiitmanipur.ac.in)
+* 🧠 Learning: AI/ML & DSA
+* 🤝 Open to: Internships & Collaborations
 
 ---
 
-### GitHub Stats
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/eeshsaxena"><img src="https://github-readme-stats.vercel.app/api?username=eeshsaxena&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /></a>
-<a href="http://www.github.com/eeshsaxena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eeshsaxena&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
-<a href="http://www.github.com/eeshsaxena"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=eeshsaxena&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/eeshsaxena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-### GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=dracula&row=1&column=3&margin=15)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,php,python,java,react,nodejs,nextjs,mongodb,mysql,git" />
+</p>
 
 ---
 
-### Support Me
+## 🌐 Connect With Me
 
-<ul style="list-style-type: none; margin: 0;">
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.buymeacoffee.com/ArunendraTripathi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-  </li>
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.ko-fi.com/ArunendraTripathi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-  </li>
-</ul>
+<p align="left">
+  <a href="https://leetcode.com/eeshsaxena">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+  <a href="https://github.com/eeshsaxena">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eesh-saxena">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eeshsaxena&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=dracula&row=1&column=6" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ArunendraTripathi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  </a>
+  <a href="https://www.ko-fi.com/ArunendraTripathi">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+  </a>
+</p>
+
+---
+
+## 🐲 Fun Fact
+
+> "Code like a developer, think like an architect, and build like a dragon." 🔥
