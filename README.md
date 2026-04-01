@@ -52,7 +52,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeshsaxena&theme=tokyonight" alt="Profile Details" />
@@ -74,7 +74,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=eeshsaxena&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
@@ -88,7 +88,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 🐲 Here Be Dragons
+## 🐲Here Be Dragons
 
 <p align="center">
   <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="500" alt="Fire Breathing Dragon" />
@@ -100,7 +100,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 😂 My Reaction When Someone Critiques Me
+## My Reaction When Someone Critiques Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/LkxR84MoERedUcg9Ym/giphy.gif" width="480" alt="Yeah well that's just like your opinion man" />
