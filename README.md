@@ -1,19 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Eesh+Saxena;Full+Stack+Developer;AI%2FML+Enthusiast" />
 </p>
 
 
 <h1 align="center">Eesh Saxena</h1>
 
-<h3 align="center">
-  Web Developer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast
-</h3>
+<p align="center">
+  Web Developer · Full Stack Developer · AI/ML
+</p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+
+<br/>
+
+<p align="center">
+  <a href="mailto:eesh230101032@iiitmanipur.ac.in">Email</a> ·
+  <a href="https://www.github.com/eeshsaxena">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/eesh-saxena">LinkedIn</a> ·
+  <a href="https://leetcode.com/eeshsaxena">LeetCode</a>
+</p>
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+## About
+
+<br/>
+
+Focused on building scalable systems and solving problems through **Data Structures, Full Stack Development, and AI/ML**.
+
+<br/>
+
+- Location: Gandhinagar, India  
+- Currently working on: AI/ML + DSA  
+- Open to: Internships and collaborations  
 
 <br/>
 
@@ -21,65 +49,16 @@
 
 <br/>
 
-## About Me
+## Stack
 
 <br/>
 
-Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack Development, and AI/ML**.
-
-<br/>
-
-- Location: Gandhinagar, Gujarat, India  
-- Email: [eesh230101032@iiitmanipur.ac.in](mailto:eesh230101032@iiitmanipur.ac.in)  
-- Currently Learning: AI/ML & DSA  
-- Open to: Internships & Collaborations  
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
-
-<br/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python,java" />
 </p>
 
-<br/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,mongodb,mysql,react,nodejs,nextjs&perline=7" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Socials
-
-<br/>
-
-<p align="left">
-  <a href="https://leetcode.com/eeshsaxena" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.github.com/eeshsaxena" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://twitter.com/eeshsaxena" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb,mysql,git" />
 </p>
 
 <br/>
@@ -88,7 +67,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 <br/>
 
-## GitHub Stats
+## Activity
 
 <br/>
 
@@ -99,15 +78,13 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
@@ -122,12 +99,12 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 <br/>
 
-## GitHub Trophies
+## Achievements
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=eeshsaxena&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=eeshsaxena&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 <br/>
@@ -136,46 +113,12 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 <br/>
 
-## Fun Fact
+## Note
 
 <br/>
 
 <p align="center">
-  <i>"Code like a developer, think like an architect, and build like a dragon."</i>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Here Be Dragons
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="500" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Production-ready code forged in dragonfire.</b>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## My Reaction When Someone Critiques Me
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LkxR84MoERedUcg9Ym/giphy.gif" width="480" />
+  Code with clarity. Build with intent.
 </p>
 
 <br/>
@@ -185,7 +128,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="420" />
 </p>
 
 <br/>
