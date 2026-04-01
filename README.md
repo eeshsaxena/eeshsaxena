@@ -1,38 +1,14 @@
 # 🐉 Eesh Saxena
 
-<!-- ================= OPTION 3 (BEST - ENABLE THIS) ================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="400"/>
-</p>
-
-<!-- ================= OPTION 2 (UNCOMMENT TO USE) ================= -->
-
-<!--
----
-
-## 🐲 Welcome to My Realm
+<!-- ===== DRAGON (WORKING LINK) ===== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500"/>
+  <img src="https://media.tenor.com/8j5Y6X7vQ1AAAAAC/dragon-fire.gif" width="400"/>
 </p>
-
----
--->
-
-<!-- ================= OPTION 1 (UNCOMMENT TO USE) ================= -->
-
-<!--
-## 🐉 Dragon Mode Activated
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
-</p>
--->
 
 ---
 
