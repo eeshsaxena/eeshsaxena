@@ -70,7 +70,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" alt="GitHub Commits Graph" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 ## 😂 My Reaction When Someone Critiques My Code
 
 <p align="center">
-  <img src="https://media.tenor.com/8j5Y6X7vQ1AAAAAC/dragon-fire.gif" width="400"/>
+  <img src="https://media.giphy.com/media/LkxR84MoERedUcg9Ym/giphy.gif" width="480" alt="Yeah well that's just like your opinion man" />
 </p>
 
 > *"Yeah, well, that's just, like, your opinion, man."*
@@ -116,10 +116,12 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
+## 🐲 Here Be Dragons
+
 <p align="center">
-  <img src="https://media.tenor.com/8j5Y6X7vQ1AAAAAC/dragon-fire.gif" width="500"/>
+  <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="500" alt="Fire Breathing Dragon" />
 </p>
 
 <p align="center">
-  <b>🐉 Here be dragons — and production-ready code.</b>
+  <b>🔥 Production-ready code forged in dragonfire. 🔥</b>
 </p>
