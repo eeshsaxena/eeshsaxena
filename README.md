@@ -100,13 +100,13 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 😂 My Reaction When Someone Critiques My Code
+## 😂 My Reaction When Someone Critiques Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/LkxR84MoERedUcg9Ym/giphy.gif" width="480" alt="Yeah well that's just like your opinion man" />
 </p>
 
-> *"Yeah, well, that's just, like, your opinion, man."*
+
 
 ---
 
