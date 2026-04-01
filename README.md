@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00F7FF&center=true&vCenter=true&lines=WWelcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00F7FF&center=true&vCenter=true&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+%F0%9F%9A%80" />
 </p>
 
 <h1 align="center">🐉 Eesh Saxena</h1>
-<h3 align="center">Web Developer · Full Stack Developer · AI/ML </h3>
+<h3 align="center">Web Developer · Full Stack Developer · AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" alt="eeshsaxena" />
@@ -97,19 +97,6 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ArunendraTripathi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-  </a>&nbsp;
-  <a href="https://www.ko-fi.com/ArunendraTripathi">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-  </a>
-</p>
-
----
-
 ## 💬 Fun Fact
 
 > *"Code like a developer, think like an architect, and build like a dragon."* 🔥
@@ -124,7 +111,4 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 <p align="center">
   <b>🔥 Production-ready code forged in dragonfire. 🔥</b>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="400"/>
 </p>
