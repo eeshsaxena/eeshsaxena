@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack Development, and AI/ML**.
 
@@ -22,7 +22,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python&perline=7" />
@@ -33,7 +33,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
   <a href="https://leetcode.com/eeshsaxena" target="_blank">
