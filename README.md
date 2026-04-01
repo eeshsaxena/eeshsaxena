@@ -25,7 +25,10 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python,java,git,mongodb,mysql,react,nodejs,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python&perline=7" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,mongodb,mysql,react,nodejs,nextjs&perline=7" />
 </p>
 
 ---
@@ -52,16 +55,21 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeshsaxena&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeshsaxena&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" alt="GitHub Commits Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
