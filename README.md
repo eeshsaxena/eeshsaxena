@@ -71,7 +71,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 
 ---
 
-## Here Be Dragons 🐉
+## Here Be Dragons 
 
 <p align="center">
   <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="500" /><br/>
