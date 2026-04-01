@@ -69,7 +69,7 @@ Hi, I'm **Eesh Saxena**, a passionate CSE student focused on **DSA, Full Stack D
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=eeshsaxena&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
