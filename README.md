@@ -121,7 +121,10 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.com/eeshsaxena?theme=dark&font=Roboto&ext=heatmap" />
+  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeshsaxena&theme=tokyonight" />
@@ -132,10 +135,7 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshsaxena&theme=tokyo-night&hide_border=true" />
+  <img src="https://leetcard.jacoblin.com/eeshsaxena?theme=dark&font=Roboto&ext=heatmap" />
 </p>
 
 ---
