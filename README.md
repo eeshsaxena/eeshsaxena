@@ -20,6 +20,8 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 - Location: Gandhinagar, Gujarat, India
 - Email: [eeshsaxena@gmail.com](mailto:eeshsaxena@gmail.com)
 - LinkedIn: [linkedin.com/in/eeshsaxena](https://linkedin.com/in/eeshsaxena)
+- Currently working on: BolKota (Rajasthani voice assistant), Cardiac Edge AI MCU deployment
+- Currently learning: Graph RAG, TinyML, Low-resource NLP
 - Open to research internships and collaborations
 
 ---
@@ -155,6 +157,7 @@ CNN-based crop leaf disease classifier with transfer learning achieving **92% ac
   <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
   <a href="https://www.github.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -164,6 +167,9 @@ CNN-based crop leaf disease classifier with transfer learning achieving **92% ac
 
 ## GitHub Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.com/eeshsaxena?theme=dark&font=Roboto&ext=heatmap" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeshsaxena&theme=tokyonight" />
 </p>
