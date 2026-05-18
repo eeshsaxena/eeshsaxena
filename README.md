@@ -138,7 +138,8 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
   <a href="https://www.codechef.com/users/kidkrish"><img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201866-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Problems%20Solved-1500%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=LeetCode%20Solved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Total%20Problems%20Solved%20(All%20Platforms)-1500%2B-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
 </p>
 
