@@ -132,13 +132,14 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 
 ## Competitive Programming
 
+| Platform | Profile | Rank & Rating | Live Stats |
+| :--- | :--- | :--- | :--- |
+| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=Solved&color=FFA116&style=flat-square" /> |
+| **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Rating&color=1F8ACB&style=flat-square" /> |
+| **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | <img src="https://img.shields.io/badge/Rating-1866-5B4638?style=flat-square" /> |
+
+<br>
 <p align="center">
-  <a href="https://leetcode.com/u/eeshsaxena/"><img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%201873-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/eeshsaxena"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201582-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/kidkrish"><img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201866-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=LeetCode%20Solved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Total%20Problems%20Solved%20(All%20Platforms)-1500%2B-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
 </p>
