@@ -29,7 +29,7 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 
 ## Work Experience
 
-### Research Intern, IIIT Vadodara (2026)
+### Research Intern, IIIT Vadodara (6 Months, Dec 2025 - May 2026)
 Under Dr. Abhisek Paul (Onsite)
 - Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
 - Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
@@ -106,6 +106,16 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 
 ---
 
+## Competitive Programming
+
+| Platform | Profile | Rank & Rating | Top % | Problems Solved | Contests |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=&color=FFA116&style=flat-square" /> | 25+ |
+| **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> <br> <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Live_Rating&color=1F8ACB&style=flat-square" /> | **Top 1%** (IN) | 300+ | 15+ |
+| **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-1866-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **Top 1%** (IN) | 400+ | 15+ |
+
+---
+
 ## Socials
 
 <p align="left">
@@ -128,17 +138,6 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
 </p>
 
----
-
-## Competitive Programming
-
-| Platform | Profile | Rank & Rating | Top % | Problems Solved | Contests |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=&color=FFA116&style=flat-square" /> | 25+ |
-| **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> <br> <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Live_Rating&color=1F8ACB&style=flat-square" /> | **Top 1%** (IN) | 300+ | 15+ |
-| **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-1866-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **Top 1%** (IN) | 400+ | 15+ |
-
----
 
 
 
