@@ -163,14 +163,6 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=eeshsaxena&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## Here Be Dragons
 
 <p align="center">
