@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Cool+Stuff+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Eesh+Saxena's+Profile;Full+Stack+Developer;AI%2FML+Developer;Building+Cool+Stuff" />
 </p>
 
 <h1 align="center">Eesh Saxena</h1>
