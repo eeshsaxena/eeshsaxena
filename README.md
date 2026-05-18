@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" />
+  <a href="https://github.com/eeshsaxena?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-View-blue?style=plastic&logo=github" /></a>
+  <a href="mailto:eeshsaxena@gmail.com"><img src="https://img.shields.io/badge/Email-eeshsaxena%40gmail.com-red?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,23 +44,80 @@ Under Dr. Abhisek Paul (Onsite)
 
 ## Projects
 
-### [BedsNBucket](https://github.com/eeshsaxena) | MERN, Supabase, PWA, Razorpay | Jan 2025
-- Built a full-stack MERN platform for product/service booking with secure payments via Razorpay.
-- Deployed as a Progressive Web App (PWA) with offline access, high performance, and responsive UI.
-- Optimized for scalability with cloud-based deployment.
-- Admin dashboard with role-based access to add/edit/delete products and manage orders.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### AI Crop Disease Detection System | Python, TensorFlow, OpenCV | Aug 2025
-- Built a CNN-based crop leaf disease classifier with transfer learning, achieving **92% accuracy**.
-- Data preprocessing and augmentation using OpenCV to improve robustness on real-world images.
-- Deployed via a web interface for instant disease identification and treatment guidance.
-- Model compression and TensorFlow Lite for efficient deployment.
+### [RajNLP-50K](https://github.com/eeshsaxena/rajnlp-50k)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MuRIL](https://img.shields.io/badge/MuRIL-fine--tuned-green?style=flat-square)
 
-### Conflict-Aware Graph RAG | Python, LangChain, Neo4j, Ollama, LLMs | 2026
-- Graph-based Retrieval-Augmented Generation pipeline that converts unstructured text into entity-relation-entity triples using LLM extraction.
-- Built a Neo4j knowledge graph with query-aware reasoning path retrieval using Ref(p) scoring.
-- Entropy-based conflict detection module to compare parametric and graph-augmented responses, reducing factual inconsistencies.
-- Temporal-aware ranking to improve answer faithfulness over baseline vector RAG systems.
+First open, annotated Rajasthani-Hindi code-switched NLP corpus — 50,000 sentences from Twitter/X and ShareChat. Fine-tuned MuRIL models outperform GPT-4o on sentiment, NER, and toxicity detection.
+
+**Extends to: BolKota (voice assistant)** — the corpus pipeline feeds directly into ASR and NLU components for a Rajasthani voice assistant.
+
+</td>
+<td width="50%" valign="top">
+
+### [Cardiac Edge AI](https://github.com/eeshsaxena/cardiac-edge-ai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+5-class cardiac arrhythmia detection on Arduino Nano 33 BLE. Novel spectral knowledge distillation loss (L_spectral) — 140x compression (1.27M to 9,100 params), 23.4 KB INT8, ~99% F1 with ECG+PPG fusion. Target Q2 journal.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Distributed File Storage](https://github.com/eeshsaxena/distributed-file-storage)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+Cloud-native distributed file storage with 8MB chunking, 3-way replication, SHA-256 deduplication, AES-256-GCM encryption, resumable uploads, CDN delivery, and file versioning. Dockerized with PostgreSQL + Redis.
+
+</td>
+<td width="50%" valign="top">
+
+### [Conflict-Aware Graph RAG](https://github.com/eeshsaxena)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+Graph-based RAG pipeline converting unstructured text into entity-relation triples. Neo4j knowledge graph with query-aware Ref(p) scoring and entropy-based conflict detection (DeltaH) to reduce factual inconsistencies over baseline vector RAG.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [BedsNBucket](https://github.com/eeshsaxena)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square)
+
+Full-stack MERN booking platform with Razorpay payments, deployed as a PWA with offline access. Role-based admin dashboard for product and order management. Jan 2025.
+
+</td>
+<td width="50%" valign="top">
+
+### [AI Crop Disease Detection](https://github.com/eeshsaxena)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+CNN-based crop leaf disease classifier with transfer learning achieving **92% accuracy**. Deployed via web interface with TensorFlow Lite for efficient inference. Aug 2025.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,9 +139,9 @@ Under Dr. Abhisek Paul (Onsite)
 
 ## Achievements
 
-- **Codeforces Specialist** - Highest Rating 1582, [eeshsaxena](https://codeforces.com/profile/eeshsaxena) (Top 1% in India)
-- **CodeChef 4-Star** - Highest Rating 1866, [kidkrish](https://www.codechef.com/users/kidkrish) (Top 1% in India)
-- **LeetCode Guardian** - Highest Rating 1873, [eeshsaxena](https://leetcode.com/u/eeshsaxena/) (Top 5% worldwide)
+- **Codeforces Specialist** - Highest Rating 1582 - [eeshsaxena](https://codeforces.com/profile/eeshsaxena) (Top 1% in India)
+- **CodeChef 4-Star** - Highest Rating 1866 - [kidkrish](https://www.codechef.com/users/kidkrish) (Top 1% in India)
+- **LeetCode Guardian** - Highest Rating 1873 - [eeshsaxena](https://leetcode.com/u/eeshsaxena/) (Top 5% worldwide)
 - Solved **1,500+ problems** across **50+ contests** on all platforms
 - **Global Rank 1** in CodeChef Starters 180 (Div. 3) among 10,000 participants
 - **Global Rank 75** in LeetCode Weekly Contest 446 among 27,686 participants
@@ -94,6 +153,8 @@ Under Dr. Abhisek Paul (Onsite)
 
 <p align="left">
   <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.github.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
