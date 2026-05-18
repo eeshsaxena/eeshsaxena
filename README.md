@@ -13,56 +13,56 @@
 
 ## About Me
 
-Hi, I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** with a strong focus on **DSA, Full Stack Development, AI/ML, and Research**.
+I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA, Full Stack Development, AI/ML, and Research.
 
-- 📍 Location: Gandhinagar, Gujarat, India
-- 📧 Email: [eeshsaxena@gmail.com](mailto:eeshsaxena@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/eeshsaxena](https://linkedin.com/in/eeshsaxena)
-- 🤝 Open to: Research Internships & Collaborations
-
----
-
-## 🎓 Education
-
-**Indian Institute of Information Technology Senapati** — Manipur, Imphal  
-B.Tech in Computer Science and Engineering *(Oct 2023 – Present)*
+- Location: Gandhinagar, Gujarat, India
+- Email: [eeshsaxena@gmail.com](mailto:eeshsaxena@gmail.com)
+- LinkedIn: [linkedin.com/in/eeshsaxena](https://linkedin.com/in/eeshsaxena)
+- Open to research internships and collaborations
 
 ---
 
-## 💼 Work Experience
+## Education
 
-### Research Intern — IIIT Vadodara *(2026)*
-*Under Dr. Abhisek Paul (Onsite)*
+**Indian Institute of Information Technology Senapati**, Manipur, Imphal  
+B.Tech in Computer Science and Engineering (Oct 2023 - Present)
+
+---
+
+## Work Experience
+
+### Research Intern, IIIT Vadodara (2026)
+Under Dr. Abhisek Paul (Onsite)
 - Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
 - Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
-- Developed and tested the encryption–data embedding–extraction process ensuring separability between data retrieval and image reconstruction.
+- Developed and tested the encryption-data embedding-extraction process ensuring separability between data retrieval and image reconstruction.
 - Measured embedding capacity and reconstruction fidelity using **PSNR and embedding rate metrics**, contributing toward ongoing publication-oriented work.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### [BedsNBucket](https://github.com/eeshsaxena) — *MERN, Supabase, PWA, Razorpay* `Jan 2025`
-- Built a **full-stack MERN** platform for seamless product/service booking with **secure payments** via Razorpay.
-- Deployed as a **Progressive Web App (PWA)** with **offline access**, high performance, and responsive UI.
-- Optimized for scalability and daily automation with **cloud-based deployment**.
-- Admin dashboard with role-based access to **add/edit/delete** products and manage orders.
+### [BedsNBucket](https://github.com/eeshsaxena) | MERN, Supabase, PWA, Razorpay | Jan 2025
+- Built a full-stack MERN platform for product/service booking with secure payments via Razorpay.
+- Deployed as a Progressive Web App (PWA) with offline access, high performance, and responsive UI.
+- Optimized for scalability with cloud-based deployment.
+- Admin dashboard with role-based access to add/edit/delete products and manage orders.
 
-### AI Crop Disease Detection System — *Python, TensorFlow, OpenCV* `Aug 2025`
-- Built a **CNN-based** crop leaf disease classifier with transfer learning, achieving **92% accuracy**.
-- Executed data preprocessing and augmentation using **OpenCV** to improve robustness on real-world images.
-- Deployed via a **web interface** for instant disease identification and treatment guidance.
-- Enhanced deployment efficiency using model compression and **TensorFlow Lite**.
+### AI Crop Disease Detection System | Python, TensorFlow, OpenCV | Aug 2025
+- Built a CNN-based crop leaf disease classifier with transfer learning, achieving **92% accuracy**.
+- Data preprocessing and augmentation using OpenCV to improve robustness on real-world images.
+- Deployed via a web interface for instant disease identification and treatment guidance.
+- Model compression and TensorFlow Lite for efficient deployment.
 
-### Conflict-Aware Graph RAG — *Python, LangChain, Neo4j, Ollama, LLMs* `2026`
-- Implemented a graph-based **Retrieval-Augmented Generation** pipeline that converts unstructured text into structured (entity–relation–entity) triples using LLM-based extraction.
-- Built a **Neo4j knowledge graph** and designed query-aware reasoning path retrieval with Ref(p) scoring.
-- Developed an **entropy-based conflict detection** module (ΔH analysis) to compare parametric and graph-augmented responses, reducing factual inconsistencies.
-- Engineered structured reasoning context (Cp·Ce·Cr) and temporal-aware ranking to improve answer faithfulness over baseline vector RAG systems.
+### Conflict-Aware Graph RAG | Python, LangChain, Neo4j, Ollama, LLMs | 2026
+- Graph-based Retrieval-Augmented Generation pipeline that converts unstructured text into entity-relation-entity triples using LLM extraction.
+- Built a Neo4j knowledge graph with query-aware reasoning path retrieval using Ref(p) scoring.
+- Entropy-based conflict detection module to compare parametric and graph-augmented responses, reducing factual inconsistencies.
+- Temporal-aware ranking to improve answer faithfulness over baseline vector RAG systems.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python&perline=7" />
@@ -78,15 +78,15 @@ B.Tech in Computer Science and Engineering *(Oct 2023 – Present)*
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Codeforces Specialist** — Highest Rating **1582** · [eeshsaxena](https://codeforces.com/profile/eeshsaxena) *(Top 1% in India)*
-- ⭐ **CodeChef 4-Star** — Highest Rating **1866** · [kidkrish](https://www.codechef.com/users/kidkrish) *(Top 1% in India)*
-- 🟡 **LeetCode Guardian** — Highest Rating **1873** · [eeshsaxena](https://leetcode.com/u/eeshsaxena/) *(Top 5% worldwide)*
-- 💡 Solved **1,500+ problems** across **50+ contests** on all platforms
-- 🥇 **Global Rank 1** — CodeChef Starters 180 (Div. 3) among **10,000** participants
-- 🌍 **Global Rank 75** — LeetCode Weekly Contest 446 among **27,686** participants
-- 🌍 **Global Rank 78** — CodeChef Starters 183 (Div. 2) among **10,000** participants
+- **Codeforces Specialist** - Highest Rating 1582, [eeshsaxena](https://codeforces.com/profile/eeshsaxena) (Top 1% in India)
+- **CodeChef 4-Star** - Highest Rating 1866, [kidkrish](https://www.codechef.com/users/kidkrish) (Top 1% in India)
+- **LeetCode Guardian** - Highest Rating 1873, [eeshsaxena](https://leetcode.com/u/eeshsaxena/) (Top 5% worldwide)
+- Solved **1,500+ problems** across **50+ contests** on all platforms
+- **Global Rank 1** in CodeChef Starters 180 (Div. 3) among 10,000 participants
+- **Global Rank 75** in LeetCode Weekly Contest 446 among 27,686 participants
+- **Global Rank 78** in CodeChef Starters 183 (Div. 2) among 10,000 participants
 
 ---
 
@@ -128,7 +128,7 @@ B.Tech in Computer Science and Engineering *(Oct 2023 – Present)*
 
 ---
 
-## Here Be Dragons 
+## Here Be Dragons
 
 <p align="center">
   <img src="https://media.giphy.com/media/FPadD45zYPPwIJRfqY/giphy.gif" width="500" /><br/>
