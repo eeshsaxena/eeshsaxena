@@ -126,13 +126,24 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.com/eeshsaxena?theme=dark&font=Roboto&ext=heatmap" />
 </p>
 
 ---
+
+## Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/eeshsaxena/"><img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%201873-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/eeshsaxena"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201582-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/kidkrish"><img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201866-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Problems%20Solved-1500%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
+</p>
+
+---
+
 
 
 ## Here Be Dragons
