@@ -110,9 +110,15 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 
 | Platform | Profile | Rank & Rating | Top % | Problems Solved | Contests |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-api-faisalshohag.vercel.app/eeshsaxena&query=$.totalSolved&label=&color=FFA116&style=flat-square" /> | 25+ |
+| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | 800+ | 25+ |
 | **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> <br> <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Live_Rating&color=1F8ACB&style=flat-square" /> | **Top 1%** (IN) | 300+ | 15+ |
 | **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-1866-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **Top 1%** (IN) | 400+ | 15+ |
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Problems%20Solved%20(All%20Platforms)-1500%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
+</p>
 
 ---
 
