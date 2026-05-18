@@ -113,9 +113,7 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
   <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
