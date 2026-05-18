@@ -26,12 +26,6 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 
 ---
 
-## Education
-
-**Indian Institute of Information Technology Senapati**, Manipur, Imphal  
-B.Tech in Computer Science and Engineering (Oct 2023 - Present)
-
----
 
 ## Work Experience
 
@@ -96,29 +90,6 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [BedsNBucket](https://github.com/eeshsaxena)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square)
-
-Full-stack MERN booking platform with Razorpay payments, deployed as a PWA with offline access. Role-based admin dashboard for product and order management. Jan 2025.
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Crop Disease Detection](https://github.com/eeshsaxena)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-CNN-based crop leaf disease classifier with transfer learning achieving **92% accuracy**. Deployed via web interface with TensorFlow Lite for efficient inference. Aug 2025.
-
-</td>
-</tr>
 </table>
 
 ---
@@ -126,16 +97,21 @@ CNN-based crop leaf disease classifier with transfer learning achieving **92% ac
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,php,python&perline=7" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,mongodb,mysql,react,nodejs,nextjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,react,nodejs,nextjs,mongodb,mysql,git,linux,docker,aws,pytorch&perline=15" />
 </p>
 
-**Languages:** C++, Python, JavaScript, PHP, SQL  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, NumPy, Pandas, Matplotlib, PyTorch  
-**Databases:** MySQL, MongoDB, Supabase, Firebase  
-**Tools & Platforms:** Git, Postman, Linux, AWS, Railway, Vercel, Netlify
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
