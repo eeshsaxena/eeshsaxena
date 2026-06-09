@@ -167,7 +167,6 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 <p align="center"><i>"Code like a developer, think like an architect, and build like a dragon."</i></p>
 
 ---
-
 <!--
 ## My Reaction When Someone Critiques Me
 
