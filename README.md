@@ -19,7 +19,7 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 
 - Location: Gandhinagar, Gujarat, India
 - Email: [eeshsaxena@gmail.com](mailto:eeshsaxena@gmail.com)
-- LinkedIn: [linkedin.com/in/eeshsaxena](https://linkedin.com/in/eesh-saxena)
+- LinkedIn: [linkedin.com/in/eesh-saxena](https://linkedin.com/in/eesh-saxena)
 - Currently working on: BolKota (Rajasthani voice assistant), Cardiac Edge AI MCU deployment
 - Currently learning: Graph RAG, TinyML, Low-resource NLP
 - Open to research internships and collaborations
