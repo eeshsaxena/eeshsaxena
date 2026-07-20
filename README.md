@@ -49,9 +49,9 @@ Under Dr. Abhisek Paul (Onsite)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![MuRIL](https://img.shields.io/badge/MuRIL-fine--tuned-green?style=flat-square)
 
-First open, annotated Rajasthani-Hindi code-switched NLP corpus — 50,000 sentences from Twitter/X and ShareChat. Fine-tuned MuRIL models outperform GPT-4o on sentiment, NER, and toxicity detection.
+First open, annotated Rajasthani-Hindi code-switched NLP corpus - 50,000 sentences from Twitter/X and ShareChat. Fine-tuned MuRIL models outperform GPT-4o on sentiment, NER, and toxicity detection.
 
-**Extends to: BolKota (voice assistant)** — the corpus pipeline feeds directly into ASR and NLU components for a Rajasthani voice assistant.
+**Extends to: BolKota (voice assistant)** - the corpus pipeline feeds directly into ASR and NLU components for a Rajasthani voice assistant.
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@ First open, annotated Rajasthani-Hindi code-switched NLP corpus — 50,000 sente
 ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-5-class cardiac arrhythmia detection on Arduino Nano 33 BLE. Novel spectral knowledge distillation loss (L_spectral) — 140x compression (1.27M to 9,100 params), 23.4 KB INT8, ~99% F1 with ECG+PPG fusion. Target Q2 journal.
+5-class cardiac arrhythmia detection on Arduino Nano 33 BLE. Novel spectral knowledge distillation loss (L_spectral) - 140x compression (1.27M to 9,100 params), 23.4 KB INT8, ~99% F1 with ECG+PPG fusion. Target Q2 journal.
 
 </td>
 </tr>
