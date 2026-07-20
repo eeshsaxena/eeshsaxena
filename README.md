@@ -54,17 +54,7 @@ First open, annotated Rajasthani-Hindi code-switched NLP corpus - 50,000 sentenc
 **Extends to: BolKota (voice assistant)** - the corpus pipeline feeds directly into ASR and NLU components for a Rajasthani voice assistant.
 
 </td>
-<td width="50%" valign="top">
 
-### [Cardiac Edge AI](https://github.com/eeshsaxena/cardiac-edge-ai)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-5-class cardiac arrhythmia detection on Arduino Nano 33 BLE. Novel spectral knowledge distillation loss (L_spectral) - 140x compression (1.27M to 9,100 params), 23.4 KB INT8, ~99% F1 with ECG+PPG fusion. Target Q2 journal.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
