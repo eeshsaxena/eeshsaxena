@@ -20,8 +20,8 @@
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
-[<img align="left" width="415" alt="habits" src="./metrics.habits.svg">](#)
-[<img align="right" width="415" alt="achievements" src="./metrics.achievements.svg">](#)
+[<img align="left" width="415" alt="activity & community stats" src="./metrics.habits.svg">](#)
+[<img align="right" width="415" alt="recent activity" src="./metrics.activity.svg">](#)
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
