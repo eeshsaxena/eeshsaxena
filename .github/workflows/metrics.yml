@@ -43,6 +43,10 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
+          # Show only the top 8 notable pills, and recolor their borders (tokyonight purple)
+          extras_css: |
+            .row.organization.contributions > *:nth-child(n+9) { display: none; }
+            .organization.contribution { border-color: #bb9af7 !important; background-color: #bb9af71a !important; }
 
       # ── Panel: Anime (AniList favorites + favorite characters) ──
       # Spotify music was REMOVED from this panel: the metrics music plugin crashes
