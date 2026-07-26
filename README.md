@@ -3,13 +3,93 @@
 </p>
 
 <h1 align="center">Eesh Saxena</h1>
-<h3 align="center">Web Developer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AI/ML Developer &nbsp;·&nbsp; Competitive Programmer</h3>
+<h3 align="center">Web Developer &nbsp;┬╖&nbsp; Full Stack Developer &nbsp;┬╖&nbsp; AI/ML Developer &nbsp;┬╖&nbsp; Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" />
   <a href="https://github.com/eeshsaxena?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-View-blue?style=plastic&logo=github" /></a>
   <a href="mailto:eeshsaxena@gmail.com"><img src="https://img.shields.io/badge/Email-eeshsaxena%40gmail.com-red?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
+</p>
+
+
+---
+
+## Achievements
+
+- **Codeforces Specialist** - Highest Rating 1582 - [eeshsaxena](https://codeforces.com/profile/eeshsaxena) (Top 1% in India)
+- **CodeChef 4-Star** - Highest Rating 1866 - [kidkrish](https://www.codechef.com/users/kidkrish) (Top 1% in India)
+- **LeetCode Guardian** - Highest Rating 1873 - [eeshsaxena](https://leetcode.com/u/eeshsaxena/) (Top 5% worldwide)
+- Solved **1,500+ problems** across **50+ contests** on all platforms
+- **Global Rank 1** in CodeChef Starters 180 (Div. 3) among 10,000 participants
+- **Global Rank 75** in LeetCode Weekly Contest 446 among 27,686 participants
+- **Global Rank 78** in CodeChef Starters 183 (Div. 2) among 10,000 participants
+
+---
+
+---
+
+
+## Work Experience
+
+### Research Intern, IIIT Vadodara (6 Months, Dec 2025 - May 2026)
+Under Dr. Abhisek Paul (Onsite)
+- Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
+- Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
+- Developed and tested the encryption-data embedding-extraction process ensuring separability between data retrieval and image reconstruction.
+- Measured embedding capacity and reconstruction fidelity using **PSNR and embedding rate metrics**, contributing toward ongoing publication-oriented work.
+
+---
+
+## Competitive Programming
+
+| Platform | Profile | Rank & Rating | Top % | Problems Solved | Contests |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | 800+ | 25+ |
+| **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> <br> <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Live_Rating&color=1F8ACB&style=flat-square" /> | **Top 1%** (IN) | 300+ | 15+ |
+| **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-1866-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **Top 1%** (IN) | 400+ | 15+ |
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Problems%20Solved%20(All%20Platforms)-1500%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
+</p>
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python, JavaScript, TypeScript, PHP, SQL |
+| **Frameworks & Libraries** | React.js, Node.js, Next.js, Express.js, PyTorch, NumPy, Pandas |
+| **Databases** | MySQL, MongoDB, Supabase, Firebase |
+| **Tools & Platforms** | Git, Docker, Linux, AWS, Postman, Vercel |
+
+---
+
+## Socials
+
+<p align="left">
+  <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
 
 ---
 
@@ -25,16 +105,6 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 - Open to research internships and collaborations
 
 ---
-
-
-## Work Experience
-
-### Research Intern, IIIT Vadodara (6 Months, Dec 2025 - May 2026)
-Under Dr. Abhisek Paul (Onsite)
-- Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
-- Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
-- Developed and tested the encryption-data embedding-extraction process ensuring separability between data retrieval and image reconstruction.
-- Measured embedding capacity and reconstruction fidelity using **PSNR and embedding rate metrics**, contributing toward ongoing publication-oriented work.
 
 ---
 
@@ -83,70 +153,6 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 </table>
 
 ---
-
-## Achievements
-
-- **Codeforces Specialist** - Highest Rating 1582 - [eeshsaxena](https://codeforces.com/profile/eeshsaxena) (Top 1% in India)
-- **CodeChef 4-Star** - Highest Rating 1866 - [kidkrish](https://www.codechef.com/users/kidkrish) (Top 1% in India)
-- **LeetCode Guardian** - Highest Rating 1873 - [eeshsaxena](https://leetcode.com/u/eeshsaxena/) (Top 5% worldwide)
-- Solved **1,500+ problems** across **50+ contests** on all platforms
-- **Global Rank 1** in CodeChef Starters 180 (Div. 3) among 10,000 participants
-- **Global Rank 75** in LeetCode Weekly Contest 446 among 27,686 participants
-- **Global Rank 78** in CodeChef Starters 183 (Div. 2) among 10,000 participants
-
----
-
-## Competitive Programming
-
-| Platform | Profile | Rank & Rating | Top % | Problems Solved | Contests |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **LeetCode** | [eeshsaxena](https://leetcode.com/u/eeshsaxena/) | <img src="https://img.shields.io/badge/Guardian-1873-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **Top 5%** (Global) | 800+ | 25+ |
-| **Codeforces** | [eeshsaxena](https://codeforces.com/profile/eeshsaxena) | <img src="https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> <br> <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=eeshsaxena&query=$.result[0].rating&label=Live_Rating&color=1F8ACB&style=flat-square" /> | **Top 1%** (IN) | 300+ | 15+ |
-| **CodeChef** | [kidkrish](https://www.codechef.com/users/kidkrish) | <img src="https://img.shields.io/badge/4%E2%98%85-1866-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **Top 1%** (IN) | 400+ | 15+ |
-
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Problems%20Solved%20(All%20Platforms)-1500%2B-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contests-50%2B-blue?style=for-the-badge" />
-</p>
-
----
-
-## Socials
-
-<p align="left">
-  <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Python, JavaScript, TypeScript, PHP, SQL |
-| **Frameworks & Libraries** | React.js, Node.js, Next.js, Express.js, PyTorch, NumPy, Pandas |
-| **Databases** | MySQL, MongoDB, Supabase, Firebase |
-| **Tools & Platforms** | Git, Docker, Linux, AWS, Postman, Vercel |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
-</p>
-
-
-
 
 ## Here Be Dragons
 
