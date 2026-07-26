@@ -39,12 +39,16 @@ jobs:
           base: activity, community
           config_timezone: Asia/Kolkata
           plugins_errors_fatal: no
+          # Top repositories / orgs eeshsaxena has notably contributed to
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
 
-      # ── Panel: Medias (anime via AniList favorites + music via Spotify playlist) ──
-      # Music renders from the public playlist URL alone (no Spotify token needed).
-      # Anime section stays blank until favorite anime + characters are added on
-      # the AniList profile (eeshu13); add them, then the next run fills it in.
-      - name: Panel · medias
+      # ── Panel: Anime (AniList favorites + favorite characters) ──
+      # Spotify music was REMOVED from this panel: the metrics music plugin crashes
+      # while scraping Spotify's embed page (getComputedStyle bug, music/index.mjs:129).
+      # Music is shown instead via a static Spotify playlist card in README.md.
+      - name: Panel · anime
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,13 +61,6 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: playlist
-          # NOTE: the music plugin requires the EMBED url form (/embed/playlist/...),
-          # not the plain share link, or it errors "Unsupported playlist URL format".
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/2onMt7L0ZWid8Sto2VO7H2
-          plugin_music_limit: 4
 
       # ── Optional Panel: LeetCode stats (add when you want) ──
       # - name: Panel · leetcode
