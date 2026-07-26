@@ -1,0 +1,88 @@
+name: Metrics
+on:
+  # Regenerate every day at 00:00 UTC
+  schedule: [{ cron: "0 0 * * *" }]
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Regenerate on pushes to these branches
+  push: { branches: ["main", "readme-lowlighter-style"] }
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # ── Required ─────────────────────────────────────────────
+          # Create a classic PAT at https://github.com/settings/tokens
+          # and add it as a repo secret named METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eeshsaxena
+          filename: github-metrics.svg
+
+          # ── Layout (wide, lowlighter-style) ──────────────────────
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          # ── Isometric contribution calendar ──────────────────────
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ── Languages breakdown ──────────────────────────────────
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+
+          # ── Recent activity ──────────────────────────────────────
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          # ── Notable contributions ────────────────────────────────
+          plugin_notable: yes
+          plugin_notable_types: commit
+
+          # ── Starred topics ───────────────────────────────────────
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 12
+
+          # ── Achievements ─────────────────────────────────────────
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+
+          # ── Coding habits ────────────────────────────────────────
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+
+          # ── Fortune (the "Your fortune: ..." line) ───────────────
+          plugin_fortune: yes
+
+          # ── Favorite anime + characters (AniList) ────────────────
+          # Replace ANILIST_USERNAME_HERE with your AniList username.
+          # No AniList account? Delete this whole block.
+          plugin_anilist: yes
+          plugin_anilist_user: ANILIST_USERNAME_HERE
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+
+          # ── Favorite music (optional) ────────────────────────────
+          # Needs a provider token. Uncomment and fill in to enable.
+          # plugin_music: yes
+          # plugin_music_provider: lastfm        # apple | spotify | lastfm
+          # plugin_music_mode: recent            # recent | top
+          # plugin_music_token: ${{ secrets.MUSIC_TOKEN }}
+          # plugin_music_user: LASTFM_USERNAME_HERE
+          # plugin_music_limit: 4
