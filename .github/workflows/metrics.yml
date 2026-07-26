@@ -16,7 +16,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      # ── Panel: General (header + 3D isometric contribution calendar) ──
+      # ── Panel: General (header only) ──
+      # (isocalendar / 3D contribution calendar removed at user request; that also
+      #  removed the commit-streak and commits-per-day stats it carried.)
       - name: Panel · general
         uses: lowlighter/metrics@latest
         with:
@@ -26,8 +28,6 @@ jobs:
           base: header
           config_timezone: Asia/Kolkata
           plugins_errors_fatal: no
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       # ── Panel: Activity & community stats ──
       - name: Panel · habits
