@@ -60,7 +60,9 @@ jobs:
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: playlist
-          plugin_music_playlist: https://open.spotify.com/playlist/2onMt7L0ZWid8Sto2VO7H2
+          # NOTE: the music plugin requires the EMBED url form (/embed/playlist/...),
+          # not the plain share link, or it errors "Unsupported playlist URL format".
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/2onMt7L0ZWid8Sto2VO7H2
           plugin_music_limit: 4
 
       # ── Optional Panel: LeetCode stats (add when you want) ──
