@@ -1,11 +1,11 @@
-> **Hi, I'm Eesh** — CSE student, full-stack & AI/ML developer, competitive programmer.\
+> **Hi, I'm Eesh.** CSE student, full-stack & AI/ML developer, competitive programmer.\
 > Here's what's on my desk right now:
 >
-> - [ ] `BolKota` — a Rajasthani voice assistant (ASR + NLU)
-> - [ ] `Cardiac Edge AI` — on-device ECG anomaly detection deployed to an MCU
-> - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) — first open Rajasthani-Hindi code-switched NLP corpus (50k sentences)
-> - [x] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) — cloud-native storage: chunking, replication, encryption
->   - → currently learning Graph RAG, TinyML & low-resource NLP
+> - [ ] `BolKota`: a Rajasthani voice assistant (ASR + NLU)
+> - [ ] `Cardiac Edge AI`: on-device ECG anomaly detection deployed to an MCU
+> - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k): first open Rajasthani-Hindi code-switched NLP corpus (50k sentences)
+> - [x] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage): cloud-native storage with chunking, replication, encryption
+>   - currently learning Graph RAG, TinyML & low-resource NLP
 >
 > *Open to research internships & collaborations.*
 
@@ -23,6 +23,11 @@
 <p align="center">
   <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight">
   <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight">
+</p>
+
+<!-- Anime (AniList favorites) + music (Spotify playlist), from the medias panel step -->
+<p align="center">
+  <img width="830" alt="anime and music" src="./metrics.medias.svg">
 </p>
 
 <!-- Bottom: live "last updated" date + credit -->
