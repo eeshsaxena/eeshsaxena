@@ -1,0 +1,75 @@
+name: Metrics
+on:
+  # Update once a day at 00:00 UTC
+  schedule: [{ cron: "0 0 * * *" }]
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Also refresh when you push to main
+  push: { branches: ["main", "master"] }
+
+# lowlighter-style profile: several small SVG panels arranged in a grid.
+# Each step below generates ONE .svg file that is committed back to this repo,
+# then embedded by README.md.
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # lets the action commit the .svg panels back to the repo
+    steps:
+      # ── Panel 1: General — header + 3D isometric contribution calendar ──
+      - name: Panel · general
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eeshsaxena
+          filename: metrics.general.svg
+          base: header
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # ── Panel 2: Languages — most-used language breakdown ──
+      - name: Panel · languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eeshsaxena
+          filename: metrics.languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: no
+          plugin_languages_analysis_timeout: 15
+
+      # ── Panel 3: Habits — activity, community stats & coding habits ──
+      - name: Panel · habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eeshsaxena
+          filename: metrics.habits.svg
+          base: activity, community
+          config_timezone: Asia/Kolkata
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      # ── Panel 4: Achievements — GitHub achievement badges ──
+      - name: Panel · achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eeshsaxena
+          filename: metrics.achievements.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
