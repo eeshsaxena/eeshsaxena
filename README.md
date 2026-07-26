@@ -16,22 +16,16 @@
 -->
 
 [<img align="left" width="415" alt="general" src="./metrics.general.svg">](#)
-[<img align="right" width="415" alt="languages" src="./metrics.languages.svg">](#)
+[<img align="right" width="415" alt="activity & community stats" src="./metrics.habits.svg">](#)
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
-[<img align="left" width="415" alt="activity & community stats" src="./metrics.habits.svg">](#)
-[<img align="right" width="415" alt="recent activity" src="./metrics.activity.svg">](#)
-
-[<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
-
-<!-- Bottom: GitFut player card + live "last updated" date + credit -->
 <p align="center">
-  <a href="https://gitfut.com/eeshsaxena"><img width="520" alt="GitFut player card" src="https://gitfut.com/eeshsaxena/opengraph-image"></a>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=480">
 </p>
+
+<!-- Bottom: live "last updated" date + credit -->
 <p align="center">
-  <a href="https://gitfut.com/eeshsaxena"><img alt="View full GitFut card" src="https://img.shields.io/badge/GitFut-View%20Full%20Card-FF6B00?style=flat-square&logo=github"></a>
-  &nbsp;
   <img alt="Profile last updated" src="https://img.shields.io/github/last-commit/eeshsaxena/eeshsaxena?label=profile%20updated&style=flat-square&color=1F8ACB">
 </p>
 
