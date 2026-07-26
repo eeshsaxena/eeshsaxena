@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Eesh Saxena</h1>
-<h3 align="center">Web Developer &nbsp;┬╖&nbsp; Full Stack Developer &nbsp;┬╖&nbsp; AI/ML Developer &nbsp;┬╖&nbsp; Competitive Programmer</h3>
+<h3 align="center">Web Developer &nbsp;Γö¼Γòû&nbsp; Full Stack Developer &nbsp;Γö¼Γòû&nbsp; AI/ML Developer &nbsp;Γö¼Γòû&nbsp; Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic" />
@@ -13,15 +13,19 @@
 
 ---
 
-## GitHub Stats
+## Socials
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
-</p>
+
+---
+
+---
 
 
 ---
@@ -41,14 +45,23 @@
 ---
 
 
-## Work Experience
 
-### Research Intern, IIIT Vadodara (6 Months, Dec 2025 - May 2026)
-Under Dr. Abhisek Paul (Onsite)
-- Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
-- Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
-- Developed and tested the encryption-data embedding-extraction process ensuring separability between data retrieval and image reconstruction.
-- Measured embedding capacity and reconstruction fidelity using **PSNR and embedding rate metrics**, contributing toward ongoing publication-oriented work.
+---
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eeshsaxena&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight" />
+</p>
+
+
+---
+
 
 ---
 
@@ -68,6 +81,23 @@ Under Dr. Abhisek Paul (Onsite)
 
 ---
 
+
+---
+
+## Work Experience
+
+### Research Intern, IIIT Vadodara (6 Months, Dec 2025 - May 2026)
+Under Dr. Abhisek Paul (Onsite)
+- Analyzed the framework from **Zhang (IEEE SPL 2011)** on Reversible Data Hiding in Encrypted Images, focusing on secure embedding with exact image recovery.
+- Studied and experimentally evaluated techniques from **30+ related research works** to compare embedding strategies and reversibility guarantees.
+- Developed and tested the encryption-data embedding-extraction process ensuring separability between data retrieval and image reconstruction.
+- Measured embedding capacity and reconstruction fidelity using **PSNR and embedding rate metrics**, contributing toward ongoing publication-oriented work.
+
+---
+
+
+---
+
 ## Tech Stack
 
 | Category | Technologies |
@@ -79,17 +109,6 @@ Under Dr. Abhisek Paul (Onsite)
 
 ---
 
-## Socials
-
-<p align="left">
-  <a href="https://leetcode.com/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/kidkrish" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/eeshsaxena" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-eeshsaxena-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eesh-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
 
 ---
 
@@ -105,6 +124,9 @@ I'm **Eesh Saxena**, a CSE student at **IIIT Senapati, Manipur** focused on DSA,
 - Open to research internships and collaborations
 
 ---
+
+---
+
 
 ---
 
@@ -153,6 +175,7 @@ Graph-based RAG pipeline converting unstructured text into entity-relation tripl
 </table>
 
 ---
+
 
 ## Here Be Dragons
 
