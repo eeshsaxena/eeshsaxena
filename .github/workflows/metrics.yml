@@ -52,7 +52,9 @@ jobs:
           plugin_languages_indepth: no
           plugin_languages_analysis_timeout: 15
 
-      # ── Panel BL: Habits — activity, community stats & coding habits ──
+      # ── Panel BL: Activity & community stats ──
+      # (plugin_habits removed: metrics has a known "Cannot destructure 'author'"
+      #  bug in the habits chart. The base activity+community block is reliable.)
       - name: Panel · habits
         uses: lowlighter/metrics@latest
         with:
@@ -62,11 +64,6 @@ jobs:
           base: activity, community
           config_timezone: Asia/Kolkata
           plugins_errors_fatal: no
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
 
       # ── Panel BR: Achievements — GitHub achievement badges ──
       - name: Panel · achievements
@@ -80,7 +77,7 @@ jobs:
           plugins_errors_fatal: no
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
+          plugin_achievements_secrets: no
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
 
