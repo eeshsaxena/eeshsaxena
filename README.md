@@ -10,14 +10,14 @@
 >
 > *Research Intern @ IIIT Vadodara (Dec 2025 - May 2026) on Reversible Data Hiding in Encrypted Images.*
 
-[<img align="left" width="390" alt="stats" src="https://github-readme-stats.vercel.app/api?username=eeshsaxena&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=00F7FF&icon_color=7F00FF">](#)
-[<img align="right" width="390" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&layout=compact&hide_border=true&theme=github_dark&title_color=00F7FF&langs_count=8">](#)
+[<img align="left" width="390" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeshsaxena&theme=github_dark">](#)
+[<img align="right" width="390" alt="languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=github_dark">](#)
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2&section=header">
 
 
 [<img align="left" width="390" alt="streak" src="https://streak-stats.demolab.com/?user=eeshsaxena&hide_border=true&theme=github-dark-blue&ring=00F7FF&fire=7F00FF&currStreakLabel=00F7FF">](#)
-[<img align="right" width="390" alt="achievements" src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=onedark&no-frame=true&column=3&row=2&margin-w=8&margin-h=8">](#)
+[<img align="right" width="390" alt="most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=github_dark">](#)
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2&section=header">
 
