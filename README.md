@@ -21,7 +21,8 @@
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
 <p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeshsaxena&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=480">
+  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeshsaxena&theme=tokyonight">
+  <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeshsaxena&theme=tokyonight">
 </p>
 
 <!-- Bottom: live "last updated" date + credit -->
