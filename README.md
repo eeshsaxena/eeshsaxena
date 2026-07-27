@@ -22,16 +22,16 @@
   side never push a gap into the other side.
 -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;background:transparent">
+<tr style="border:none">
+<td width="42%" valign="top" style="border:none;padding:0">
 
 <img width="100%" alt="header" src="./metrics.general.svg">
 <img width="100%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
 <img width="100%" alt="recently starred repositories" src="./metrics.stars.svg">
 
 </td>
-<td width="50%" valign="top">
+<td width="58%" valign="top" style="border:none;padding:0 0 0 12px">
 
 <img width="100%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <img width="100%" alt="On repeat, what I code to" src="./music_head.svg">
