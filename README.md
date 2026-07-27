@@ -1,4 +1,4 @@
-##### Hi, I'm Eesh ≡ƒæï
+## Hi, I'm Eesh Γëí╞Æ├ª├»
 
 > Want to know what I'm currently working on ?\
 > Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
@@ -21,6 +21,9 @@
   floats): each td stacks its own images tightly, so mismatched panel heights on one
   side never push a gap into the other side.
 -->
+
+<details>
+<summary>📊 View Metrics</summary>
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;background:transparent">
 <tr style="border:none">
@@ -45,6 +48,8 @@
 </td>
 </tr>
 </table>
+
+</details>
 
 <!-- Bottom: live "last updated" date + credit -->
 <p align="center">
