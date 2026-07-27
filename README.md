@@ -1,14 +1,13 @@
 ##### Hi, I'm Eesh 👋
 
 > Want to know what I'm currently building ?\
-> Here's what's on my desk right now :
+> Here's what's on my desk right now (🔥 = top priority):
 >
-> - [ ] [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) 
-> - [ ] 'Completion of Portfolio site' eeshsaxena.com
+> - [ ] 🔥 [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) · balancing with college @ IIIT Manipur
 > - [ ] `BolKota` will be a Rajasthani voice assistant (ASR + NLU)
 > - [ ] `Cardiac Edge AI` runs on-device ECG anomaly detection on an MCU
-> - [ ] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) · first open Rajasthani-Hindi code-switched corpus (50k)
-> - [ ] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) · chunking, replication, encryption
+> - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) · first open Rajasthani-Hindi code-switched corpus (50k)
+> - [x] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) · chunking, replication, encryption
 >   - learning Graph RAG, TinyML & low-resource NLP
 >
 > *CSE student · competitive programmer · [my Kaggle](https://www.kaggle.com/eeshsaxena) · open to research internships & collaborations !*
@@ -29,8 +28,38 @@
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
-[<img align="left" width="415" alt="recently starred repositories" src="./metrics.stars.svg">](#)
-[<img align="right" width="415" alt="recently played music (Last.fm)" src="./metrics.music.svg">](#)
+<p align="center">
+  <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
+</p>
+
+### 🎧 On repeat &nbsp;<sub><sup>hand-picked · tap any cover → YouTube Music</sup></sub>
+
+<table>
+<tr>
+<td width="52"><a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music/1.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><b>Yeh Raaten Yeh Mausam</b></a><br><sub>Kishore Kumar & Asha Bhosle</sub></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img src="./music/2.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=The+Nights+Avicii"><b>The Nights</b></a><br><sub>Avicii</sub></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img src="./music/3.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><b>Lose Yourself</b></a><br><sub>Eminem</sub></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img src="./music/4.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><b>Ain't No Rest for the Wicked</b></a><br><sub>Cage the Elephant</sub></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img src="./music/5.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><b>Po Jian</b></a><br><sub>Sati Akura</sub></td>
+</tr>
+<tr>
+<td><a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img src="./music/6.jpg" width="46" height="46"></a></td>
+<td><a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><b>Rasputin</b></a><br><sub>Boney M.</sub></td>
+</tr>
+</table>
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
