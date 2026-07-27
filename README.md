@@ -21,11 +21,10 @@
   rows separated by a full-width 1px placeholder.svg (float-clear trick).
 -->
 
-<img align="left" width="415" alt="header" src="./metrics.general.svg">
-<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">
-<img align="left" width="415" alt="activity, community & notable contributions" src="./metrics.stats.svg">
-<img align="right" width="415" alt="favorite anime & characters" src="./metrics.medias.svg">
-<img align="left" width="415" alt="recently starred repositories" src="./metrics.stars.svg">
+<img align="left" width="49%" alt="header" src="./metrics.general.svg">
+<img align="right" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
+<img align="left" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg">
+<img align="right" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 
 <img src="./music_head.svg" width="700" alt="On repeat, what I code to">
