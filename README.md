@@ -21,19 +21,12 @@
   rows separated by a full-width 1px placeholder.svg (float-clear trick).
 -->
 
-[<img align="left" width="415" alt="header" src="./metrics.general.svg">](#)
-[<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">](#)
-
-[<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
-
-[<img align="left" width="415" alt="activity, community & notable contributions" src="./metrics.stats.svg">](#)
-[<img align="right" width="415" alt="favorite anime & characters" src="./metrics.medias.svg">](#)
-
-[<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
-
-<p align="center">
-  <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
-</p>
+<img align="left" width="415" alt="header" src="./metrics.general.svg">
+<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">
+<img align="left" width="415" alt="activity, community & notable contributions" src="./metrics.stats.svg">
+<img align="right" width="415" alt="favorite anime & characters" src="./metrics.medias.svg">
+<img align="left" width="415" alt="recently starred repositories" src="./metrics.stars.svg">
+<img width="100%" height="1" alt="" src="./placeholder.svg">
 
 <img src="./music_head.svg" width="700" alt="On repeat, what I code to">
 <a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music_1.svg" width="700" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
