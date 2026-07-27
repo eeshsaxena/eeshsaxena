@@ -3,6 +3,8 @@
 
 ###### On my desk right now
 
+- [ ] 🔥 **Kaggle · [AI Agent Security: Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard)** · top priority
+- [ ] College coursework · CSE @ IIIT Manipur
 - [ ] `BolKota` · Rajasthani voice assistant (ASR + NLU)
 - [ ] `Cardiac Edge AI` · on-device ECG anomaly detection on an MCU
 - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) · first open Rajasthani-Hindi code-switched corpus (50k)
