@@ -26,13 +26,18 @@
 <img align="left" width="49%" alt="header" src="./metrics.general.svg">
 <img align="right" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
-<img align="right" width="49%" alt="On repeat, what I code to" src="./music_head.svg">
 <img align="left" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
-<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img align="right" width="49%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
+<img width="100%" height="1" alt="" src="./placeholder.svg">
+</div>
+
+<div>
+<img align="left" width="49%" alt="On repeat, what I code to" src="./music_head.svg">
+<img width="100%" height="1" alt="" src="./placeholder.svg">
+<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img align="left" width="49%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
 <a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img align="right" width="49%" src="./music_2.svg" alt="The Nights - Avicii"></a>
-<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img align="right" width="49%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
+<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img align="left" width="49%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
 <a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img align="right" width="49%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
-<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img align="right" width="49%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
+<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img align="left" width="49%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
 <a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img align="right" width="49%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
