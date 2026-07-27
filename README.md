@@ -9,8 +9,8 @@
 > - [ ] [`Portfolio`](https://eeshsaxena.com) will be my personal site, live at eeshsaxena.com
 > - [ ] `BolKota` will be a Rajasthani voice assistant (ASR + NLU)
 > - [ ] `Cardiac Edge AI` will run on-device ECG anomaly detection on an MCU
-> - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) is the first open Rajasthani-Hindi code-switched corpus (50k)
-> - [x] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) handles chunking, replication & encryption
+> - [ ] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) is the first open Rajasthani-Hindi code-switched corpus (50k)
+> - [ ] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) handles chunking, replication & encryption
 >   - currently learning Graph RAG, TinyML & low-resource NLP
 >
 > *Thanks for stopping by! Open to research internships & collaborations.*
