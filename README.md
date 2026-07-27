@@ -33,14 +33,8 @@
 
 <div>
 <!-- header + contact are both 480x92, so plain inline imgs on ONE line sit perfectly level (no floats needed) -->
-<img width="49%" alt="header" src="./metrics.general.svg"><img width="49%" alt="Contact me" src="./contact-info.svg">
+<img width="49%" alt="header" src="./metrics.general.svg"><img width="49%" alt="Contact me" src="./contact-me.svg">
 </div>
-
-<sub>
-<a href="mailto:eeshsaxena@gmail.com">Email</a> ·
-<a href="https://eeshsaxena.com">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/eesh-saxena">LinkedIn</a>
-</sub>
 
 <div>
 <img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
