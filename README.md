@@ -22,17 +22,12 @@
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
 [<img align="left" width="415" alt="activity, community & notable contributions" src="./metrics.stats.svg">](#)
-[<img align="right" width="415" alt="coding habits & activity" src="./metrics.habits.svg">](#)
-
-[<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
-
-[<img align="left" width="415" alt="starred topics" src="./metrics.topics.svg">](#)
-[<img align="right" width="415" alt="recently starred repositories" src="./metrics.stars.svg">](#)
+[<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">](#)
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
 <p align="center">
-  <img width="415" alt="repository licenses" src="./metrics.licenses.svg">
+  <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
 </p>
 
 <!-- Bottom: live "last updated" date + credit -->

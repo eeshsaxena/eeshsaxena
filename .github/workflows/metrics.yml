@@ -68,34 +68,12 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-      # ── Panel: Repository licenses ──
-      - name: Panel · licenses
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: eeshsaxena
-          filename: metrics.licenses.svg
-          base: ""
-          plugins_errors_fatal: no
-          plugin_licenses: yes
-          plugin_licenses_setup: cd $(mktemp -d) && npm init --yes && npm install eeshsaxena/distributed-file-storage
-          plugin_licenses_ratio: yes
-
-      # ── Panel: Coding habits & activity charts ──
-      - name: Panel · habits
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: eeshsaxena
-          filename: metrics.habits.svg
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugins_errors_fatal: no
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+      # NOTE: two of the four requested panels are disabled because metrics @latest can't
+      # render them for this account:
+      #   - Coding habits (plugin_habits): crashes with "Cannot destructure property 'author'"
+      #     (a metrics bug, same class as achievements/activity/languages).
+      #   - Repository licenses (plugin_licenses): renders empty; needs a per-repo dependency
+      #     install that the plugin doesn't reliably pick up. Can be revisited.
 
       # ── Panel: Anime (AniList favorites + favorite characters) ──
       # Spotify music is shown via a static playlist card in README.md (the metrics
