@@ -32,34 +32,7 @@
   <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
 </p>
 
-### 🎧 On repeat &nbsp;<sub><sup>hand-picked · tap any cover → YouTube Music</sup></sub>
-
-<table>
-<tr>
-<td width="52"><a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music/1.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><b>Yeh Raaten Yeh Mausam</b></a><br><sub>Kishore Kumar & Asha Bhosle</sub></td>
-</tr>
-<tr>
-<td><a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img src="./music/2.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=The+Nights+Avicii"><b>The Nights</b></a><br><sub>Avicii</sub></td>
-</tr>
-<tr>
-<td><a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img src="./music/3.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><b>Lose Yourself</b></a><br><sub>Eminem</sub></td>
-</tr>
-<tr>
-<td><a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img src="./music/4.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><b>Ain't No Rest for the Wicked</b></a><br><sub>Cage the Elephant</sub></td>
-</tr>
-<tr>
-<td><a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img src="./music/5.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><b>Po Jian</b></a><br><sub>Sati Akura</sub></td>
-</tr>
-<tr>
-<td><a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img src="./music/6.jpg" width="46" height="46"></a></td>
-<td><a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><b>Rasputin</b></a><br><sub>Boney M.</sub></td>
-</tr>
-</table>
+<a href="https://music.youtube.com/"><img alt="On repeat — what I code to" src="./music.svg" width="430"></a>
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
