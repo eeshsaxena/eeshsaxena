@@ -22,7 +22,7 @@
   side never push a gap into the other side.
 -->
 
-<table>
+<table width="100%">
 <tr>
 <td width="35%" valign="top">
 
