@@ -33,7 +33,7 @@
 
 <div>
 <!-- header + contact are both 480x92, so plain inline imgs on ONE line sit perfectly level (no floats needed) -->
-<img width="49%" alt="header" src="./metrics.general.svg"><img width="49%" alt="Contact me" src="./contact.svg">
+<img width="49%" alt="header" src="./metrics.general.svg"><img width="49%" alt="Contact me" src="./contact-card.svg">
 </div>
 
 <sub>
