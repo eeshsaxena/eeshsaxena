@@ -1,13 +1,14 @@
 ##### Hi, I'm Eesh 👋
 
 > Want to know what I'm currently building ?\
-> Here's what's on my desk right now (🔥 = top priority):
+> Here's what's on my desk right now :
 >
-> - [ ] 🔥 [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) · balancing with college @ IIIT Manipur
+> - [ ] [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) · balancing with college @ IIIT Manipur
+> - [ ] 'Completion of Portfolio site' eeshsaxena.com
 > - [ ] `BolKota` will be a Rajasthani voice assistant (ASR + NLU)
 > - [ ] `Cardiac Edge AI` runs on-device ECG anomaly detection on an MCU
-> - [x] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) · first open Rajasthani-Hindi code-switched corpus (50k)
-> - [x] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) · chunking, replication, encryption
+> - [ ] [`RajNLP-50K`](https://github.com/eeshsaxena/rajnlp-50k) · first open Rajasthani-Hindi code-switched corpus (50k)
+> - [ ] [`Distributed File Storage`](https://github.com/eeshsaxena/distributed-file-storage) · chunking, replication, encryption
 >   - learning Graph RAG, TinyML & low-resource NLP
 >
 > *CSE student · competitive programmer · [my Kaggle](https://www.kaggle.com/eeshsaxena) · open to research internships & collaborations !*
