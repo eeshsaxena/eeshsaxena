@@ -23,46 +23,48 @@
 -->
 
 <!--
-  Layout: each block is ONE row = a single left float + a single right column, then a
-  100%-wide placeholder that forces a clear. Rows are paired by panel height so neither
-  side waits on a much taller neighbour:
-    row 1  header (92)          |  contact (inline pair, identical aspect)
-    row 2  activity/etc (257)   |  tech stack (200)
-    row 3  anime (384)          |  recently starred (345)
-    row 4+ on repeat: header, then songs two per row (equal heights)
+  LAYOUT RULES (measured in a real browser on this page, do not "simplify"):
+   1. GitHub forces `display:block` on every markdown image, so inline pairs are
+      impossible: two images side by side REQUIRE align="left" / align="right" floats.
+   2. GitHub resolves the width % against a box wider than the readme column, so
+      width="49%" actually renders ~51%. Two of those overflow 831px and the right
+      float drops below the left one. 47% renders 411px each (822 < 831) and holds.
+   3. A right-hand COLUMN of several images = one left float followed by consecutive
+      right floats. A wrapper <div> cannot be used: it is full width and clears the float.
+   4. Each row ends with a 100%-wide placeholder, which cannot fit beside a float and
+      therefore acts as the clear.
 -->
 
 <div>
-<!-- header + contact are both 480x92, so plain inline imgs on ONE line sit perfectly level (no floats needed) -->
-<img width="49%" alt="header" src="./metrics.general.svg"><img width="49%" alt="Contact me" src="./contact-me.svg">
-</div>
-
-<div>
-<!--
-  CP rows are separate images so each can be its own link (links inside an SVG stop
-  working once GitHub renders it as <img>). Stats is floated left; the CP column is a
-  normal block whose line boxes are shortened by that float, so align="right" + <br>
-  stacks the strips in the right-hand column, level with the Activity heading.
--->
-<img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
-<div align="right">
-<img width="49%" alt="Competitive programming" src="./cp-head.svg"><br>
-<a href="https://leetcode.com/u/eeshsaxena/"><img width="49%" alt="LeetCode Guardian 1873" src="./cp-1.svg"></a><br>
-<a href="https://codeforces.com/profile/eeshsaxena"><img width="49%" alt="Codeforces Specialist 1582" src="./cp-2.svg"></a><br>
-<a href="https://www.codechef.com/users/kidkrish"><img width="49%" alt="CodeChef 4 star 1866" src="./cp-3.svg"></a><br>
-<img width="49%" alt="1,500+ problems solved" src="./cp-4.svg"><br>
-<img width="49%" alt="50+ contests" src="./cp-5.svg"><br>
-<img width="49%" alt="Top 1% in India" src="./cp-6.svg">
-</div>
+<img align="left" width="47%" alt="header" src="./metrics.general.svg">
+<img align="right" width="47%" alt="Contact me" src="./contact-me.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
 <div>
-<img align="top" width="49%" alt="tech stack" src="./tech-stack.svg"><img align="top" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
+<!-- CP rows are separate images so each can carry its own link (links inside an SVG
+     stop working once GitHub renders the SVG as an <img>). -->
+<img align="left" width="47%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
+<img align="right" width="47%" alt="Competitive programming" src="./cp-head.svg">
+<a href="https://leetcode.com/u/eeshsaxena/"><img align="right" width="47%" alt="LeetCode Guardian 1873" src="./cp-1.svg"></a>
+<a href="https://codeforces.com/profile/eeshsaxena"><img align="right" width="47%" alt="Codeforces Specialist 1582" src="./cp-2.svg"></a>
+<a href="https://www.codechef.com/users/kidkrish"><img align="right" width="47%" alt="CodeChef 4 star 1866" src="./cp-3.svg"></a>
+<img align="right" width="47%" alt="1,500+ problems solved" src="./cp-4.svg">
+<img align="right" width="47%" alt="50+ contests" src="./cp-5.svg">
+<img align="right" width="47%" alt="Top 1% in India" src="./cp-6.svg">
+<img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
 <div>
-<img align="top" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg"><a href="https://music.youtube.com/"><img align="top" width="49%" alt="On repeat, what I code to" src="./music-list.svg"></a>
+<img align="left" width="47%" alt="tech stack" src="./tech-stack.svg">
+<img align="right" width="47%" alt="recently starred repositories" src="./metrics.stars.svg">
+<img width="100%" height="1" alt="" src="./placeholder.svg">
+</div>
+
+<div>
+<img align="left" width="47%" alt="favorite anime & characters" src="./metrics.medias.svg">
+<a href="https://music.youtube.com/"><img align="right" width="47%" alt="On repeat, what I code to" src="./music-list.svg"></a>
+<img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
 <!-- Bottom: live "last updated" date + credit -->
