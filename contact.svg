@@ -2,14 +2,15 @@
 <style>
  text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
  .h{font-size:14px;font-weight:600;fill:#0969da}
- .b{font-size:12.5px;font-weight:600;text-anchor:middle}
- @media(prefers-color-scheme:dark){.h{fill:#58a6ff}}
+ .v{font-size:12.5px;fill:#57606a}
+ .i{font-size:12px}
+ @media(prefers-color-scheme:dark){.h{fill:#58a6ff}.v{fill:#8b949e}}
 </style>
-<text x="6" y="18" class="h">&#9993; Contact me</text>
-<rect x="6.0" y="36" width="150" height="34" rx="8" fill="#EA4335" fill-opacity="0.15" stroke="#EA4335" stroke-opacity="0.85"/>
-<text x="81.0" y="58" class="b" fill="#EA4335">Email</text>
-<rect x="165.0" y="36" width="150" height="34" rx="8" fill="#12B886" fill-opacity="0.15" stroke="#12B886" stroke-opacity="0.85"/>
-<text x="240.0" y="58" class="b" fill="#12B886">Portfolio</text>
-<rect x="324.0" y="36" width="150" height="34" rx="8" fill="#0A66C2" fill-opacity="0.15" stroke="#0A66C2" stroke-opacity="0.85"/>
-<text x="399.0" y="58" class="b" fill="#0A66C2">LinkedIn</text>
+<text x="6" y="16" class="h">&#9993; Contact me</text>
+<text x="8" y="38" class="i" fill="#EA4335">✉</text>
+<text x="26" y="38" class="v">eeshsaxena@gmail.com</text>
+<text x="8" y="59" class="i" fill="#12B886">◉</text>
+<text x="26" y="59" class="v">eeshsaxena.com</text>
+<text x="8" y="80" class="i" fill="#0A66C2">■</text>
+<text x="26" y="80" class="v">linkedin.com/in/eesh-saxena</text>
 </svg>

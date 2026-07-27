@@ -32,8 +32,7 @@
 -->
 
 <div>
-<img align="left" width="49%" alt="header" src="./metrics.general.svg">
-<a href="mailto:eeshsaxena@gmail.com"><img align="right" width="49%" alt="Contact me" src="./contact.svg"></a>
+<img align="right" width="49%" alt="Contact me" src="./contact.svg"><img align="left" width="49%" alt="header" src="./metrics.general.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
