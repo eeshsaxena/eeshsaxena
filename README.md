@@ -38,7 +38,7 @@
 </div>
 
 <div>
-<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="competitive programming" src="./cp-panel.svg">
+<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="competitive programming" src="./cp-metrics.svg">
 </div>
 
 <div>
