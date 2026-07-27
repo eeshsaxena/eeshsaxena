@@ -42,23 +42,11 @@
 </div>
 
 <div>
-<img align="top" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg"><img align="top" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
+<img align="top" width="49%" alt="competitive programming" src="./cp-achievements.svg"><img align="top" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
 </div>
 
 <div>
-<img width="49%" alt="On repeat, what I code to" src="./music_head.svg">
-</div>
-
-<div>
-<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img align="top" width="49%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a><a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img align="top" width="49%" src="./music_2.svg" alt="The Nights - Avicii"></a>
-</div>
-
-<div>
-<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img align="top" width="49%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a><a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img align="top" width="49%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
-</div>
-
-<div>
-<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img align="top" width="49%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a><a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img align="top" width="49%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
+<img align="top" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg"><a href="https://music.youtube.com/"><img align="top" width="49%" alt="On repeat, what I code to" src="./music-list.svg"></a>
 </div>
 
 <!-- Bottom: live "last updated" date + credit -->
