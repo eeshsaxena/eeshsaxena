@@ -38,11 +38,11 @@
 </div>
 
 <div>
-<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="tech stack" src="./tech-stack.svg">
+<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="competitive programming" src="./cp-achievements.svg">
 </div>
 
 <div>
-<img align="top" width="49%" alt="competitive programming" src="./cp-achievements.svg"><img align="top" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
+<img align="top" width="49%" alt="tech stack" src="./tech-stack.svg"><img align="top" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
 </div>
 
 <div>

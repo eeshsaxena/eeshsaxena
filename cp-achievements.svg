@@ -1,32 +1,24 @@
-<svg width="480" height="345" viewBox="0 0 480 345" xmlns="http://www.w3.org/2000/svg">
+<svg width="480" height="257" viewBox="0 0 480 257" xmlns="http://www.w3.org/2000/svg">
 <style>
  text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
  .h{font-size:17px;font-weight:600;fill:#0969da}
- .sh{font-size:14px;font-weight:600;fill:#0969da}
  .n{font-size:14px;font-weight:600;fill:#24292f}
  .d{font-size:12px;fill:#57606a}
  .r{font-size:13px;font-weight:700}
- @media(prefers-color-scheme:dark){.h,.sh{fill:#58a6ff}.n{fill:#e6edf3}.d{fill:#8b949e}}
+ @media(prefers-color-scheme:dark){.h{fill:#58a6ff}.n{fill:#e6edf3}.d{fill:#8b949e}}
 </style>
-<text x="6" y="35" class="h">&#127942;&#160; Competitive programming</text>
-<circle cx="12" cy="63" r="4.5" fill="#FFA116"/>
-<text x="26" y="68" class="n">LeetCode</text>
-<text x="120" y="68" class="r" fill="#FFA116">Guardian &#183; 1873</text>
-<text x="26" y="86" class="d">Top 5% global &#183; 800+ solved &#183; 25+ contests</text>
-<circle cx="12" cy="115" r="4.5" fill="#1F8ACB"/>
-<text x="26" y="120" class="n">Codeforces</text>
-<text x="120" y="120" class="r" fill="#1F8ACB">Specialist &#183; 1582</text>
-<text x="26" y="138" class="d">Top 1% India &#183; 300+ solved &#183; 15+ contests</text>
-<circle cx="12" cy="167" r="4.5" fill="#C77B4E"/>
-<text x="26" y="172" class="n">CodeChef</text>
-<text x="120" y="172" class="r" fill="#C77B4E">4&#9733; &#183; 1866</text>
-<text x="26" y="190" class="d">Top 1% India &#183; 400+ solved &#183; 15+ contests</text>
-<text x="6" y="230" class="sh">&#9889; Contest highlights</text>
-<circle cx="12" cy="252" r="4" fill="#FFD700"/>
-<text x="26" y="256" class="d">Global Rank 1 &#183; CodeChef Starters 180 (Div 3)</text>
-<circle cx="12" cy="274" r="4" fill="#C0C0C0"/>
-<text x="26" y="278" class="d">Global Rank 75 &#183; LeetCode Weekly 446 / 27,686</text>
-<circle cx="12" cy="296" r="4" fill="#CD7F32"/>
-<text x="26" y="300" class="d">Global Rank 78 &#183; CodeChef Starters 183 (Div 2)</text>
-<text x="6" y="338" class="n">1,500+ problems solved &#183; 50+ contests</text>
+<text x="6" y="30" class="h">&#127942;&#160; Competitive programming</text>
+<circle cx="12" cy="59" r="4.5" fill="#FFA116"/>
+<text x="26" y="64" class="n">LeetCode</text>
+<text x="120" y="64" class="r" fill="#FFA116">Guardian &#183; 1873</text>
+<text x="26" y="81" class="d">Top 5% global &#183; 800+ solved &#183; 25+ contests</text>
+<circle cx="12" cy="107" r="4.5" fill="#1F8ACB"/>
+<text x="26" y="112" class="n">Codeforces</text>
+<text x="120" y="112" class="r" fill="#1F8ACB">Specialist &#183; 1582</text>
+<text x="26" y="129" class="d">Top 1% India &#183; 300+ solved &#183; 15+ contests</text>
+<circle cx="12" cy="155" r="4.5" fill="#C77B4E"/>
+<text x="26" y="160" class="n">CodeChef</text>
+<text x="120" y="160" class="r" fill="#C77B4E">4&#9733; &#183; 1866</text>
+<text x="26" y="177" class="d">Top 1% India &#183; 400+ solved &#183; 15+ contests</text>
+<text x="6" y="216" class="n">1,500+ problems solved &#183; 50+ contests</text>
 </svg>
