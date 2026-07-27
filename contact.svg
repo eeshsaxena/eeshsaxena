@@ -1,0 +1,25 @@
+<svg width="480" height="92" viewBox="0 0 480 92" xmlns="http://www.w3.org/2000/svg">
+<style>
+ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+ .h{font-size:14px;font-weight:600;fill:#0969da}
+ .b{font-size:10.5px;font-weight:600;text-anchor:middle}
+ @media(prefers-color-scheme:dark){.h{fill:#58a6ff}}
+</style>
+<text x="6" y="16" class="h">&#9993; Contact me</text>
+<rect x="4" y="26" width="114" height="24" rx="6" fill="#EA4335" fill-opacity="0.15" stroke="#EA4335" stroke-opacity="0.85"/>
+<text x="61.0" y="42" class="b" fill="#EA4335">Email</text>
+<rect x="126" y="26" width="114" height="24" rx="6" fill="#12B886" fill-opacity="0.15" stroke="#12B886" stroke-opacity="0.85"/>
+<text x="183.0" y="42" class="b" fill="#12B886">Portfolio</text>
+<rect x="248" y="26" width="114" height="24" rx="6" fill="#0A66C2" fill-opacity="0.15" stroke="#0A66C2" stroke-opacity="0.85"/>
+<text x="305.0" y="42" class="b" fill="#0A66C2">LinkedIn</text>
+<rect x="370" y="26" width="114" height="24" rx="6" fill="#20BEFF" fill-opacity="0.15" stroke="#20BEFF" stroke-opacity="0.85"/>
+<text x="427.0" y="42" class="b" fill="#20BEFF">Kaggle</text>
+<rect x="4" y="56" width="114" height="24" rx="6" fill="#FFA116" fill-opacity="0.15" stroke="#FFA116" stroke-opacity="0.85"/>
+<text x="61.0" y="72" class="b" fill="#FFA116">LeetCode</text>
+<rect x="126" y="56" width="114" height="24" rx="6" fill="#1F8ACB" fill-opacity="0.15" stroke="#1F8ACB" stroke-opacity="0.85"/>
+<text x="183.0" y="72" class="b" fill="#1F8ACB">Codeforces</text>
+<rect x="248" y="56" width="114" height="24" rx="6" fill="#B07A4" fill-opacity="0.15" stroke="#B07A4" stroke-opacity="0.85"/>
+<text x="305.0" y="72" class="b" fill="#B07A4">CodeChef</text>
+<rect x="370" y="56" width="114" height="24" rx="6" fill="#E3A008" fill-opacity="0.15" stroke="#E3A008" stroke-opacity="0.85"/>
+<text x="427.0" y="72" class="b" fill="#E3A008">HuggingFace</text>
+</svg>

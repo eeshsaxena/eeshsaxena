@@ -33,8 +33,20 @@
 
 <div>
 <img align="left" width="49%" alt="header" src="./metrics.general.svg">
+<a href="mailto:eeshsaxena@gmail.com"><img align="right" width="49%" alt="Contact me" src="./contact.svg"></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
+
+<sub>
+<a href="mailto:eeshsaxena@gmail.com">Email</a> ·
+<a href="https://eeshsaxena.com">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/eesh-saxena">LinkedIn</a> ·
+<a href="https://www.kaggle.com/eeshsaxena">Kaggle</a> ·
+<a href="https://leetcode.com/u/eeshsaxena/">LeetCode</a> ·
+<a href="https://codeforces.com/profile/eeshsaxena">Codeforces</a> ·
+<a href="https://www.codechef.com/users/kidkrish">CodeChef</a> ·
+<a href="https://huggingface.co/eeshsaxena">HuggingFace</a>
+</sub>
 
 <div>
 <img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
