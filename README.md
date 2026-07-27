@@ -38,7 +38,7 @@
 </div>
 
 <div>
-<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="tech stack" src="./techstack.svg">
+<img align="top" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg"><img align="top" width="49%" alt="tech stack" src="./tech-stack.svg">
 </div>
 
 <div>
