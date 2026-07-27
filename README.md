@@ -24,23 +24,23 @@
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 <img width="100%" alt="header" src="./metrics.general.svg">
 <img width="100%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
 <img width="100%" alt="recently starred repositories" src="./metrics.stars.svg">
 
 </td>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 <img width="100%" alt="favorite anime & characters" src="./metrics.medias.svg">
-<img width="100%" alt="On repeat, what I code to" src="./music_head.svg">
-<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img width="100%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
-<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img width="100%" src="./music_2.svg" alt="The Nights - Avicii"></a>
-<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img width="100%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
-<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img width="100%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
-<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img width="100%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
-<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img width="100%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
+<img width="115%" alt="On repeat, what I code to" src="./music_head.svg">
+<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img width="115%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
+<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img width="115%" src="./music_2.svg" alt="The Nights - Avicii"></a>
+<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img width="115%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
+<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img width="115%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
+<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img width="115%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
+<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img width="115%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
 
 </td>
 </tr>
