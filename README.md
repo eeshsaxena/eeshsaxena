@@ -39,19 +39,21 @@
 
 <div>
 <!--
-  CP rows are separate images so each can be its own link (links inside an SVG do not
-  work once GitHub renders it as <img>). Float order matters: ONE left float first, then
-  consecutive right floats. A float may not sit higher than any earlier float, so
-  left-then-rights stacks the right column correctly; rights-then-left would not.
+  CP rows are separate images so each can be its own link (links inside an SVG stop
+  working once GitHub renders it as <img>). Stats is floated left; the CP column is a
+  normal block whose line boxes are shortened by that float, so align="right" + <br>
+  stacks the strips in the right-hand column, level with the Activity heading.
 -->
 <img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
-<img align="right" width="49%" alt="Competitive programming" src="./cp-head.svg">
-<a href="https://leetcode.com/u/eeshsaxena/"><img align="right" width="49%" alt="LeetCode Guardian 1873" src="./cp-1.svg"></a>
-<a href="https://codeforces.com/profile/eeshsaxena"><img align="right" width="49%" alt="Codeforces Specialist 1582" src="./cp-2.svg"></a>
-<a href="https://www.codechef.com/users/kidkrish"><img align="right" width="49%" alt="CodeChef 4 star 1866" src="./cp-3.svg"></a>
-<img align="right" width="49%" alt="1,500+ problems solved" src="./cp-4.svg">
-<img align="right" width="49%" alt="50+ contests" src="./cp-5.svg">
-<img align="right" width="49%" alt="Top 1% in India" src="./cp-6.svg">
+<div align="right">
+<img width="49%" alt="Competitive programming" src="./cp-head.svg"><br>
+<a href="https://leetcode.com/u/eeshsaxena/"><img width="49%" alt="LeetCode Guardian 1873" src="./cp-1.svg"></a><br>
+<a href="https://codeforces.com/profile/eeshsaxena"><img width="49%" alt="Codeforces Specialist 1582" src="./cp-2.svg"></a><br>
+<a href="https://www.codechef.com/users/kidkrish"><img width="49%" alt="CodeChef 4 star 1866" src="./cp-3.svg"></a><br>
+<img width="49%" alt="1,500+ problems solved" src="./cp-4.svg"><br>
+<img width="49%" alt="50+ contests" src="./cp-5.svg"><br>
+<img width="49%" alt="Top 1% in India" src="./cp-6.svg">
+</div>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
