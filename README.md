@@ -22,6 +22,7 @@
   side never push a gap into the other side.
 -->
 
+<div>
 <img align="left" width="49%" alt="header" src="./metrics.general.svg">
 <img align="right" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
@@ -34,6 +35,7 @@
 <a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img align="right" width="49%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
 <a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img align="right" width="49%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
+</div>
 
 <!-- Bottom: live "last updated" date + credit -->
 <p align="center">
