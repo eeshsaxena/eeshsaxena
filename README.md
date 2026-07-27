@@ -1,7 +1,7 @@
 ##### Hi, I'm Eesh 👋
 
 > Want to know what I'm currently working on ?\
-> Checkout [my todos](https://github.com/eeshsaxena?tab=projects)
+> Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
 >
 > *PS: juggling a Kaggle competition, a portfolio launch and some research right now, moving a bit slower than planned but the bricks are stacking up !*
 >
@@ -35,9 +35,19 @@
   <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
 </p>
 
-<a href="https://music.youtube.com/"><img alt="On repeat, what I code to" src="./music.svg" width="430"></a>
+<img src="./music_head.svg" width="430" alt="On repeat, what I code to">
 
-<sub>▶ play on YouTube Music &nbsp;·&nbsp; [Yeh Raaten Yeh Mausam](https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle) · [The Nights](https://music.youtube.com/search?q=The+Nights+Avicii) · [Lose Yourself](https://music.youtube.com/search?q=Lose+Yourself+Eminem) · [Ain't No Rest for the Wicked](https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant) · [Po Jian](https://music.youtube.com/search?q=Po+Jian+Sati+Akura) · [Rasputin](https://music.youtube.com/search?q=Rasputin+Boney+M)</sub>
+<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music_1.svg" width="430" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
+
+<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img src="./music_2.svg" width="430" alt="The Nights - Avicii"></a>
+
+<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img src="./music_3.svg" width="430" alt="Lose Yourself - Eminem"></a>
+
+<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img src="./music_4.svg" width="430" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
+
+<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img src="./music_5.svg" width="430" alt="Po Jian - Sati Akura"></a>
+
+<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img src="./music_6.svg" width="430" alt="Rasputin - Boney M."></a>
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
