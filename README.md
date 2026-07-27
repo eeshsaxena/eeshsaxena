@@ -3,7 +3,7 @@
 > Want to know what I'm currently building ?\
 > Here's what's on my desk right now :
 >
-> - [ ] [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) · balancing with college @ IIIT Manipur
+> - [ ] [Kaggle · AI Agent Security competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) 
 > - [ ] 'Completion of Portfolio site' eeshsaxena.com
 > - [ ] `BolKota` will be a Rajasthani voice assistant (ASR + NLU)
 > - [ ] `Cardiac Edge AI` runs on-device ECG anomaly detection on an MCU
