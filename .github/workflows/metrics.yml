@@ -1,4 +1,4 @@
-name: Metrics
+﻿name: Metrics
 on:
   # Update once a day at 00:00 UTC (a single daily run stays well under API limits)
   schedule: [{ cron: "0 0 * * *" }]
@@ -77,6 +77,8 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit_characters: 22
+          extras_css: |
+            .field.anime-minutes-watched, .field.manga-chapters-read, section.anilist > .field:has([data-value="0"]) { display: none !important; }
 
       # ── Music: now a hand-picked list in README.md (covers in /music, links to
       #    YouTube Music). Replaced the Last.fm panel, which stayed empty without
