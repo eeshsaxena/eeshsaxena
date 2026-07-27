@@ -1,4 +1,3 @@
-﻿##### Hi, I'm Eesh 👋
 
 > Want to know what I'm currently working on ?\
 > Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
@@ -24,14 +23,14 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <img width="100%" alt="header" src="./metrics.general.svg">
 <img width="100%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
 <img width="100%" alt="recently starred repositories" src="./metrics.stars.svg">
 
 </td>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <img width="100%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <img width="100%" alt="On repeat, what I code to" src="./music_head.svg">
