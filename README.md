@@ -22,29 +22,18 @@
   side never push a gap into the other side.
 -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img width="100%" alt="header" src="./metrics.general.svg">
-<img width="100%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
-<img width="100%" alt="recently starred repositories" src="./metrics.stars.svg">
-
-</td>
-<td width="50%" valign="top">
-
-<img width="100%" alt="favorite anime & characters" src="./metrics.medias.svg">
-<img width="100%" alt="On repeat, what I code to" src="./music_head.svg">
-<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img width="100%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
-<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img width="100%" src="./music_2.svg" alt="The Nights - Avicii"></a>
-<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img width="100%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
-<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img width="100%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
-<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img width="100%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
-<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img width="100%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
-
-</td>
-</tr>
-</table>
+<img align="left" width="49%" alt="header" src="./metrics.general.svg">
+<img align="right" width="49%" alt="favorite anime & characters" src="./metrics.medias.svg">
+<img align="left" width="49%" alt="activity, community & notable contributions" src="./metrics.stats.svg">
+<img align="right" width="49%" alt="On repeat, what I code to" src="./music_head.svg">
+<img align="left" width="49%" alt="recently starred repositories" src="./metrics.stars.svg">
+<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img align="right" width="49%" src="./music_1.svg" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
+<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img align="right" width="49%" src="./music_2.svg" alt="The Nights - Avicii"></a>
+<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img align="right" width="49%" src="./music_3.svg" alt="Lose Yourself - Eminem"></a>
+<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img align="right" width="49%" src="./music_4.svg" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
+<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img align="right" width="49%" src="./music_5.svg" alt="Po Jian - Sati Akura"></a>
+<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img align="right" width="49%" src="./music_6.svg" alt="Rasputin - Boney M."></a>
+<img width="100%" height="1" alt="" src="./placeholder.svg">
 
 <!-- Bottom: live "last updated" date + credit -->
 <p align="center">
