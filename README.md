@@ -22,12 +22,12 @@
 -->
 
 [<img align="left" width="415" alt="header" src="./metrics.general.svg">](#)
-[<img align="right" width="415" alt="favorite anime & characters" src="./metrics.medias.svg">](#)
+[<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">](#)
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
 [<img align="left" width="415" alt="activity, community & notable contributions" src="./metrics.stats.svg">](#)
-[<img align="right" width="415" alt="starred topics" src="./metrics.topics.svg">](#)
+[<img align="right" width="415" alt="favorite anime & characters" src="./metrics.medias.svg">](#)
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
