@@ -35,19 +35,13 @@
   <img width="415" alt="recently starred repositories" src="./metrics.stars.svg">
 </p>
 
-<img src="./music_head.svg" width="430" alt="On repeat, what I code to">
-
-<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music_1.svg" width="430" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
-
-<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img src="./music_2.svg" width="430" alt="The Nights - Avicii"></a>
-
-<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img src="./music_3.svg" width="430" alt="Lose Yourself - Eminem"></a>
-
-<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img src="./music_4.svg" width="430" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
-
-<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img src="./music_5.svg" width="430" alt="Po Jian - Sati Akura"></a>
-
-<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img src="./music_6.svg" width="430" alt="Rasputin - Boney M."></a>
+<img src="./music_head.svg" width="700" alt="On repeat, what I code to">
+<a href="https://music.youtube.com/search?q=Yeh+Raaten+Yeh+Mausam+Kishore+Kumar+Asha+Bhosle"><img src="./music_1.svg" width="700" alt="Yeh Raaten Yeh Mausam - Kishore Kumar & Asha Bhosle"></a>
+<a href="https://music.youtube.com/search?q=The+Nights+Avicii"><img src="./music_2.svg" width="700" alt="The Nights - Avicii"></a>
+<a href="https://music.youtube.com/search?q=Lose+Yourself+Eminem"><img src="./music_3.svg" width="700" alt="Lose Yourself - Eminem"></a>
+<a href="https://music.youtube.com/search?q=Ain%27t+No+Rest+for+the+Wicked+Cage+the+Elephant"><img src="./music_4.svg" width="700" alt="Ain't No Rest for the Wicked - Cage the Elephant"></a>
+<a href="https://music.youtube.com/search?q=Po+Jian+Sati+Akura"><img src="./music_5.svg" width="700" alt="Po Jian - Sati Akura"></a>
+<a href="https://music.youtube.com/search?q=Rasputin+Boney+M"><img src="./music_6.svg" width="700" alt="Rasputin - Boney M."></a>
 
 [<img width="100%" height="1" alt="" src="./placeholder.svg">](#)
 
