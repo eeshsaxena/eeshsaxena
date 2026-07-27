@@ -22,9 +22,6 @@
   side never push a gap into the other side.
 -->
 
-<details>
-<summary>🎵 Stats &amp; Music</summary>
-
 <table>
 <tr>
 <td width="40%" valign="top">
@@ -48,8 +45,6 @@
 </td>
 </tr>
 </table>
-
-</details>
 
 <!-- Bottom: live "last updated" date + credit -->
 <p align="center">
