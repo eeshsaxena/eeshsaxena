@@ -61,8 +61,8 @@
 </div>
 
 <div>
-<img align="left" width="47%" alt="tech stack" src="./tech-stack.svg">
-<img align="right" width="47%" alt="recently starred repositories" src="./metrics.stars.svg">
+<img align="left" width="47%" alt="recently starred repositories" src="./metrics.stars.svg">
+<img align="right" width="47%" alt="tech stack" src="./tech-stack.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
@@ -71,8 +71,3 @@
 <a href="https://music.youtube.com/"><img align="right" width="47%" alt="On repeat, what I code to" src="./music-list.svg"></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
-
-<!-- Bottom: live "last updated" date + credit -->
-<p align="center">
-  <img alt="Profile last updated" src="https://img.shields.io/github/last-commit/eeshsaxena/eeshsaxena?label=profile%20updated&style=flat-square&color=1F8ACB">
-</p>
