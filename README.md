@@ -57,6 +57,8 @@
 <img align="right" width="47%" alt="1,500+ problems solved" src="./cp-4.svg">
 <img align="right" width="47%" alt="50+ contests" src="./cp-5.svg">
 <img align="right" width="47%" alt="Top 1% in India" src="./cp-6.svg">
+<img align="right" width="47%" alt="Global Rank 1 CodeChef Starters 180" src="./cp-7.svg">
+<a href="https://github.com/eeshsaxena?tab=achievements"><img align="right" width="47%" alt="GitHub achievements: Pull Shark, Quickdraw, Pair Extraordinaire, YOLO" src="./cp-8.svg"></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
