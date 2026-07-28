@@ -62,7 +62,7 @@
 
 <div>
 <img align="left" width="47%" alt="recently starred repositories" src="./metrics.stars.svg">
-<img align="right" width="47%" alt="tech stack" src="./tech-stack.svg">
+<img align="right" width="47%" alt="tech stack" src="./stack-grid.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
