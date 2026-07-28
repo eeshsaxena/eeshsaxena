@@ -1,4 +1,4 @@
-##### Hi, I'm Eesh 
+##### Hi, I'm Eesh 👋 
 
 > Want to know what I'm currently working on ?\
 > Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
