@@ -37,7 +37,12 @@
 
 <div>
 <img align="left" width="47%" alt="header" src="./metrics.general.svg">
-<img align="right" width="47%" alt="Contact me" src="./contact-me.svg">
+<!-- Contact rows are separate images so each can carry its own link (links inside an
+     SVG stop working once GitHub renders the SVG as an <img>). -->
+<img align="right" width="47%" alt="Contact me" src="./contact-head.svg">
+<a href="mailto:eeshsaxena@gmail.com"><img align="right" width="47%" alt="eeshsaxena@gmail.com" src="./contact-1.svg"></a>
+<a href="https://eeshsaxena.com"><img align="right" width="47%" alt="eeshsaxena.com" src="./contact-2.svg"></a>
+<a href="https://www.linkedin.com/in/eesh-saxena"><img align="right" width="47%" alt="linkedin.com/in/eesh-saxena" src="./contact-3.svg"></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
