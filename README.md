@@ -72,10 +72,12 @@
 
 <img width="100%" alt="most used languages" src="./languages.svg">
 
+<img width="100%" alt="open source contributions" src="./contributions.svg">
+
 <div>
 <img align="left" width="47%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <a href="https://music.youtube.com/"><img align="right" width="47%" alt="On repeat, what I code to" src="./music-list.svg"></a>
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
-<img width="100%" alt="favourite TV shows and characters" src="./tv-fav.svg">
+<img width="100%" alt="favourite TV shows and characters" src="./tv-fav2.svg">

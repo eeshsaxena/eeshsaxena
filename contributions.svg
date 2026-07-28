@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="116" viewBox="0 0 900 116">
+<style>
+ svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;color:#777;fill:currentColor}
+ text{fill:#57606a}
+ .h{font-size:16px;fill:#0366d6}
+ .r{font-size:13.5px;font-weight:600;fill:#0366d6}
+ .d{font-size:11px;fill:#57606a}
+ .s{font-size:11px;fill:#57606a}
+ @media(prefers-color-scheme:dark){svg{color:#9198a1}text,.d,.s{fill:#8b949e}.h,.r{fill:#58a6ff}}
+</style>
+<svg x="4" y="6" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/></svg>
+<text x="27" y="20" class="h">Open source contributions</text>
+<text x="6" y="52" class="r">redis/redis-py</text>
+<text x="6" y="70" class="d">Redis Python client</text>
+<circle cx="11" cy="86" r="5" fill="#3572A5"/>
+<text x="22" y="90" class="s">Python   ★ 13.6k   ⌥ 5 merged PRs</text>
+<text x="302" y="52" class="r">plotly/plotly.py</text>
+<text x="302" y="70" class="d">The interactive graphing library for Pyth…</text>
+<circle cx="307" cy="86" r="5" fill="#3572A5"/>
+<text x="318" y="90" class="s">Python   ★ 18.7k   ⌥ 2 merged PRs</text>
+<text x="598" y="52" class="r">twentyhq/twenty</text>
+<text x="598" y="70" class="d">The open alternative to Salesforce</text>
+<circle cx="603" cy="86" r="5" fill="#3178c6"/>
+<text x="614" y="90" class="s">TypeScript   ★ 53.7k   ⌥ 1 merged PRs</text>
+</svg>
