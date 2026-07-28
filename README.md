@@ -70,6 +70,8 @@
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
+<img width="100%" alt="most used languages" src="./languages.svg">
+
 <div>
 <img align="left" width="47%" alt="favorite anime & characters" src="./metrics.medias.svg">
 <a href="https://music.youtube.com/"><img align="right" width="47%" alt="On repeat, what I code to" src="./music-list.svg"></a>
