@@ -1,4 +1,4 @@
-##### Hi, I'm Eesh 👋
+##### Hi, I'm Eesh 
 
 > Want to know what I'm currently working on ?\
 > Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
@@ -80,4 +80,4 @@
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
-<img width="100%" alt="favourite TV shows and characters" src="./tv-fav3.svg">
+
