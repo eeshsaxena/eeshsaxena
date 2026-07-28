@@ -80,6 +80,6 @@
 
 <div>
 <img align="left" width="47%" alt="favourite TV shows" src="./tv-shows.svg">
-<img align="right" width="47%" alt="favourite TV characters" src="./tv-chars.svg">
+<img align="right" width="47%" alt="more TV shows" src="./tv-more.svg">
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
