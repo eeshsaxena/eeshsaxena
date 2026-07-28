@@ -78,4 +78,4 @@
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
-<img width="100%" alt="favourite TV shows and characters" src="./tv-favourites.svg">
+<img width="100%" alt="favourite TV shows and characters" src="./tv-fav.svg">
