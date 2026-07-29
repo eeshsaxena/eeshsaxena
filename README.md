@@ -5,7 +5,7 @@
 >
 > *PS: juggling a Kaggle competition, a portfolio launch and some research right now, moving a bit slower than planned but the bricks are stacking up !*
 >
-> - [ ] [`Kaggle`](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/leaderboard) AI Agent Security competition, my top priority right now
+> - [ ] [`Kaggle`](https://www.kaggle.com/eeshsaxena) AI Agent Security competition, my top priority right now
 > - [ ] [`Portfolio`](https://eeshsaxena.com) will be my personal site, live at eeshsaxena.com
 > - [ ] `BolKota` will be a Rajasthani voice assistant (ASR + NLU)
 > - [ ] `Cardiac Edge AI` will run on-device ECG anomaly detection on an MCU
