@@ -81,6 +81,5 @@
 <img width="100%" height="1" alt="" src="./placeholder.svg">
 </div>
 
-<img width="100%" alt="rotating quotes" src="./quotes.svg">
 
 
