@@ -1,5 +1,5 @@
 ##### Hi, I'm Eesh 👋 
->Open To Work
+> Open To Work for Companies 
 > Want to know what I'm currently working on ?\
 > Checkout [my todos](https://github.com/users/eeshsaxena/projects/3)
 >
